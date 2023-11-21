@@ -1,0 +1,128 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_TT
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_TT
+ identifier : 0x28f8b10b1e66f438
+ internal_properties : CAAAAAgAAAB5uznAjC/XI3NAkC6uj6Xswag+x2UoGjo3bFsD7LT2hjqSCYyoOssjVSK7yvIjGfMOCw/XTWQrme95kcylLTvheaSavFbiIyWuE/wsLE/l3eRnHZCE0zH+Xl8r93BGRz7xupKj1WC/myRENsSGdlez+M7D4Nb6auKwVJIwfQQUL8kgT65enXq+VmjgB+nvLHGXhzkj0T2f+RdEmbk+iemcPFYPjYXfDiuGaVJhUx1L88JFb3wUmI2SBjZ6leIqxI4PdbRCp/mvu+Hh8PRy6lrzNFTWO09TnRxa/+rBQlBsoEk/7dkEgTWYHBFwqwBcgCmCvflzQT9sbJp79A9s+vrjlI8NBQEo06rNsPRHoDTefesRfKwQqhnnzMr3tDhSz4MKcHwTXTwg5AhvK92oGpeKQEKu6zHJNxtIw9FXCLAOympMWAgE9fq1dIq9djTsZgVh3ROqBM92oAh9f7ECBKHG1TDpG9J1Zvb0dKzaqNhWZUjegP2sn/MsMoLbZXFA2UuKG5OyX46MAaCGnY23m3gB0ra6siZTJdeIihvLsWv1sygCyBqCecUJYS8Wys3Uxpx3jchEC2NOKJSlq8Gh0nuLUIJErV+MVu78aJX3g69SiD6oXq17fxk8SqqwYDBs1s4283fBJ4GROLaXFj7eS0nphlWcssYdMMT31ijRzPWnQwGX2cMS8I1lyRFLjHDVDTQgWHDyFS8Lkai0Hcf8TP9lPuvJ57X9neJPb8PQiFZ29DzkhWvaWF1uxZ8o6iv7BCgMyA==
+ properties :
+  width : 861
+  height : 744
+  widthClient : 859
+  heightClient : 712
+ controls :
+  -
+    name : WP_Document
+    identifier : 0x28f8b10b1e67f438
+    internal_properties : CAAAAAgAAABxQS09Y4FXj2D46nkIo9Xn1jdan8NNRn7iR5szb6kkLFw7JTbVHx1rXdT/paehzAUBegKWaZEH4ybWsWBID2kdz76QGqKeNAtdbNyXHHbqwWUFFeXrSqQ+Nl+MPIdunwzaq3gk3hA1/RJHVHe7CxMAQBxlySWgYC2cQuvK65kVMcmmeky6dELikxiKOZBrRSL9tVPgQd59PY8oe1cyktJms9vNqqTnYPzor0SDw4ap+QLOAQpI4XCyaWZjwV/bJs0Lddc9V3c9Eokxt5tMIwEDr9bfJXfXS/2TS+y8Kj+OGAMHkOgIxI0fn8RYZVEXWTbwvD4ioqT+dl09r3X+BdND+iStGD/GfmQ2ea5GeXBEdn3m95INvPFnya+BVvAfe2aXKx0R0Urmnq7dNixeFWpzgV6XBbb47I6/XrFeRrtwD/64/gf7s797deWOat95X7iC3G4DyK5qmdY/EXS4od/Jh8yrinaNrv+0Adg0tVp7CXXr3cV5gtsH1/UFZdKDS9qgqsNAtIqvO85LEsJ0fOY5bdAEm6P/9wW1a5pzCYACx1sOz2ax7y3Ig4W0hKu4euNoaRqUyd0bppHFEtVuMfBpRng4dtUtag==
+    properties :
+     x : 6
+     y : 36
+     width : 847
+     height : 670
+    type : 120
+    code_elements :
+     type_code : 147
+     p_codes : []
+  -
+    name : BTN_Print
+    identifier : 0x28f8b10b1e68f438
+    internal_properties : CAAAAAgAAAAqpncy8b0cSRRrKPjvVvkU9Ge1gPd3s+ZBEoqfVL58kpcAWF7OA1H2H+42pbFqu5hbt9EhVso0oIgll97784v5oL738ZauI4yFV1Yrsg2kvhj8MvCURoUOB13sP22ALeiPeP4vwJqYXuJF+m+qskUBQWk/IXre1bKvaTd+0jDoW+1fPzkW057+D9sJpm46rymNW9CWc0a35VNY97EGvXD1P01g5msI6XkVTbDiTlexpY+YtKD1YNNyrlusKm6Awps+yRaLg1N0E5414VcjSCQZ1c3i53xmy6Ndz8l07xRopxtw5e1ZUIhRXel77onm6okosF7BqAzhOb+PBRN3Diug0Shunc/3TdsIsLTaAVprjPE7fxpJkhJa/1LPofxrXSoKTsdUIwn0GHmrp1mJWoOJsI3/axeePu1dZ3Lv5yvQ3G1MwfuWghCelsCl/7+tu5U/po5CQaqhSPP5OwxCZKokS6USyKVpMdidv1xJFcg/VIX1SPgy9xh8Rqu/IOPwNkE7LoEd92ZltaCmA2xB+S1GhGFwGA+yvMtuEG+rCZgQQXqnw7McsxkVFDFphnMFyQ5P4osf0Kn/9dLX4keqNLwZF8NfjNdyB8TVniKos7KusOsYIrFl2VBVZIYypc3LcrmlNB8G4wgjtCBP0xLcc5+CXO3KNgECHS5/kbsMEwMHy7NxHtSdxmq11EDY2toHJpGF6bMiZIioMnL/UNdxx3XuzYcGtl+/FDy2jyCZgYQkm+kvDlvSwSxKhAa9n5pdZwcGQa0Npm1ol4ikYcgexhCD4X6rRTiB2NEiYOZbO89fR9XuIUH3yMvWZOf2ybhJCwWL3fmUHHpFo0GgvYE55TKOuTJ86ynVcJQl4HIufns2WAzNjGUud1k4MBJQV+448AkhYfPuhPdB+EoskyRWH1U=
+    properties :
+     x : 6
+     y : 6
+     width : 102
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Preview 
+         iPreview()
+         
+         // Print the WP control
+         iPrintDoc(WP_Document)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACypDEH0GxaJtKF79VeAIAjSgrjWv6RS9WMtjPfjTRnoQmrMN6ZHIBn+uOdgfT3pOhzJBVzYZwK50XDHaBqHFhqQzutRg==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE MyWindow()
+      
+      WP_Document = fExeDir()+[fSep]+<§$0000§>
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x182c8e510ad553fb
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      en-GB : overview.docx
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

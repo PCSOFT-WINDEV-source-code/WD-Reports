@@ -1,0 +1,167 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_WinDevViewAPT
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_WinDevViewAPT
+ identifier : 0x26b9f9ac1b3016a3
+ internal_properties : CAAAAAgAAADpH6kNIRfpBSb+9NcqSg36GJyoLXESlTzrZEFyrB8vRwNWL0NXOBc/SykCJ0e6DWgeYEK/sSyLJgQ+OBdKCwx8h7XkFeaGB3IX9lMUDlR1Gb/LE4XedQQbhmVRYgiIEaIJs/sA4PYlYBC3OQcJnds4FnJSwmwPZRgkzaCHgoKH97427gjfZPpXGLl5TkYNhrJQ5aMKSXvzrHXvj1H8cz92lpqbHX+XAilzV4QFLzbdxbDvrbeSPYlJhdY72YigdoYE0yO1hWisNg7YaXT+uKgLswY/IzloESkZ4FDAhFmTWMjChc/jhcSwnRUd8mo/3B8SRWnmBG/3cpdeYegU/VIgyBImjqeRcQyDg0YGKqFkQPpObYi0gLUCSfCtHi17tGJhBaOZksICfRoxJTR4wKAaKf26dY7JtsSXbyD/SFLZvu+Rrv9KZ/BAaFIZItxYq4Ce9p1Uk9C1TlqPrLw5KWPFu787RegGweP03BIUPxyCTfo5ToHDrOQoUv/gm5J8wNQPM+xHz0rdO5jDijctYhSHNpdlFNBrwc+ByEuK+YUq2Ook/7ydN3DiXRerr2HBrWzjLDzbbnSe4JTdsRwLX1OINn4ysHP7+72lQB/IVS70TkcDb7wDGNzKMqMypeH+RvUVx4Zau5gQWg7NKk1ZeQQvagCa/ieHSKBg4AU6q9MqrQUibNe28bFRPw==
+ properties :
+  width : 175
+  height : 225
+ controls :
+  -
+    name : IW_WinDevViewAPT
+    identifier : 0x26b9f9ac1b3116a3
+    internal_properties : CAAAAAgAAABHqicLcFwDTEfIE6ELlh8AM8OUFt7pmwC4FQXIB9I1yfnRmKXb8bLlGiGsmYsLJ+z6NgG83/AT/QKgf3/Q+jxJGcQ7bXhvQGWZi4rg7ckIpqKyqQAyxeXw+fUtWrXLvlM+k+nNfvaRvpO0R6+I3gyvw9M4Q34oC6vkhkWQO9As7UW3CaQ0DD8W6zBpckHsGZyaZnA5xGoIc/8byONN5uj+vLoTIyX89lKyb16hDF9n/qkA9EY/tZ1u3zylPB5qsfBuiQKMKmjej9XHNTTa65ZIeI2AAqincHQh5D2QWGFwU+QJjFwSEiEeMDVsVKLZMerACsjP+W5k5vA6U8Im+AYKBjuUzT3B48AVgWkN/P5ShAU33zyS+E9ZetwthhBzY7yio3D/KropRERDqX0ykcnET0qM8NOBhWVASw8fro+sQeMkqjHBNZ8ay81xQ+FkY9Er9CfEZe36FvEqRnJv23JRWVOtUCYELIPUK1R/C+1oqw==
+    properties :
+     width : 175
+     height : 225
+    controls :
+     -
+       name : STC_BackgroundAPTTitle
+       identifier : 0x26b9f9ac1b3216a3
+       internal_properties : CAAAAAgAAADVhxSIlr2T+OxWIhlSxFkxYPwr4SSbMl1OQk5Ax961dKfz1nbWLiROkKyZM4ugFuGvsSYA8p88+vTxUf2KQM6bxMFnXzRZ7yq1WOkpXFVgm2MbAXjF/Je+BppdJfUeJfDGG5AwThvl4/1fv+KTM2nXssRx7kKiJ9yon+CY/WniI+6QXMcG5xhxB7GzkgIMDm92Ax8lRCWoQNgfh8z2onObaMhZpbQUCfPWTba1AXcmRvtJmB0OeGNSohC8a5+Zam/YoXuorTwrEyDixVK07202CBqLgtFKbWZ4sNQJ+vzxsIbPzj8u8RxdH6ICY8lahlqiP6Tj6uMHUjVbKM9cxMcDNreSX3+J1vuD1It8s03uBE/v2+mVwusoyPXhoxXeQrgJhqxsM5QBiCj5GxpbnVYbka0FOtF4gTmeZkzZOaQtvCY5ncIe7ULpFKWwCIgwtPYvsAqJetYLWdkwKXI=
+       properties :
+        width : 175
+        height : 17
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 18
+     -
+       name : STC_Details
+       identifier : 0x26b9f9ac1b3316a3
+       internal_properties : CAAAAAgAAAC1n9fpEVOBHyemhEe2959NbxyKtssXTrY1J2z4hyfgCB5gx6QURqPLPCQ6BLxTSWR5mlnD2EMgx22/jkDG3Q46/OMgTE6SqaBILs1Jr0VPiHKYfNIlYTi4y+qPOp+kRY7DIvMgd8++q9rFeV+9i4/UejCG27iHvI6NOaBJtpww0xl02hDLUZc1h2Sfw3noRiIRp4KXXx7Gn0NdWHlwRX0C2xpOFMoAZ5fQ0458ZSijnRJG9w872gJ2oylwUkVlwZaT9KWk8FOwVZmc27KTTp/ZFS+Yb9Tk719Vo5aJtVj1Z1YdHLl2khlhzePzOG7w5ZBOzWowlnkf/hYBRNs/skEOSo5kY7vywX+TSMktSVueOx+3sTJc9RZ95T/yrSlGZgeYHqY1Xkhh6aChZBfYgGIs0LeSyo01RCh0jTqpkitRaQlhT1gweb6V5KhjKBK7P5vaJRvGgs45Yc7F+n7+AN4P1cYlZ/KBvvwEvME0RpIF7RgzVZFzFXRRcAhpcg==
+       properties :
+        x : 2
+        y : 17
+        width : 174
+        height : 204
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 18
+     -
+       name : STC_APTTitle
+       identifier : 0x26b9f9ac1b3416a3
+       internal_properties : CAAAAAgAAABQtiyXZgI4Qhwz+5pkauclV35Co6OWboyIjwzuwBIUNtCcBxNtCMgqTa7mi3tsn7Y/kOgmxBCcx6DEGIEnRw+4OLogAFj7DwkipMUKDhkqwYLXY6OpG1zPNOdAOCvl72fhopr1iLJLZNuErbpA6Agc0S83HceoRYP0z/ss6Nm7X1OW0QvSF6Onqc+tM3UTFKBWWV9aAINRlRNOXJZnABXRpk+DnBpCx45QZdEt4uvkSDoot1PWI5X6FLseFcFUKNUUYBmy8dBM/LdwTU3U7IfWQApfgiiA0Ga5qQOxqGC/sv2OvYSJ7Ybf4TMxCURH6HU4zLyVl0AJdwXPKqakiVsdLOLA/ZbIkH2Vxvn0QzgrqWp5Lft+IQLeMrRRKbolXhp5Mn7zkPcHq+lWDWhHtEo026oNoopnPc4cko8O55GkeQq0o/WtElJvsF6q9UlTHsYaroUiVfVgw3O/kw9DJSV7jeWMmzD8uhj2
+       properties :
+        x : 2
+        y : 1
+        width : 172
+        height : 16
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 18
+     -
+       name : IMG_Image1
+       identifier : 0x26b9f9ac1b3516a3
+       internal_properties : CAAAAAgAAADW8Foo0xa8JjcqapZVjZN629xBmyoj0ftyj8/Co8FElcgVPcOmZ6SK+WGS0mIMrH4KeXRzV4zIrJP3VeCEbZLel2BRbIyydQc/okOLIPhRBCCCDfTpNcewPmVtC81qfVdlOA38jaU8tIslyUqtBXoIYvhkja8iie+33TG5fjLoG/z8Odx6ywSj2G7oO3mKINYZYW/pFhiGmBfHF6yiO2CC3c8zwTUYvrKLFUQOmY7L7hYRCOfELx0ruGRwS2BxI95TylrMDfkRpP6G+VVAVGfPUPbmExx9vt7IJIqaqyFrxZTuRIOzL/jLCZIAOQWtkHiP7Og/gvyFwVC9pOhFd89MOWxjNp65gRjpqnXdyBYqmDMaztfAHzzDNlk8ztf8jmiwbSVwEBMFENCwbvjnyNcoGk1f6izpjpWVvLEzIqR/+6Uz4mEqRo5gq1MMWOfZEvrR1du0sMMqvE8ivAx+Rx39k7ed+plr1hS4F5rOs/RNjctJopY+K8gRZc9Z5l5SLvK9XX/IyoS6K6FNgLfP4M8dmi8iw3pqJfkt8UkadzZhBdnhlOG8CuNm9oYxKHJD7Km2V42ZYL5Isu5ZQDIOwYO4QSnAj/nJNf2M4zxzHAynkWMafAtpCmyrZKOBQ9IBS1yU3KxAHASYOi7D9JbuidnGakGPT8kXVti3EfCFl5RhAZP+amnkIH/PYDUN1XtU+AwUWbDo8YQcTPypmstV5vsFSCwNPE9Ztf6gT9aj/Fb58Xxo2BZNyWzJPoDwPW6N6InNDN3GXepatd2bFbquW3jKr8VsfxCcmJodkZsCXmx7fSYzPLJGawQoMO/ou5H5bZn8Vipy8ZkYpHCH5rw/R6y9UA==
+       properties :
+        x : 3
+        y : 206
+        width : 16
+        height : 16
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_Important
+       identifier : 0x26b9f9ac1b3616a3
+       internal_properties : CAAAAAgAAADUpUJQSnH2Y96uDYRn611cgWB4PzTugObVfkOSBtUYeXqTvXXL2IfkuVqn39VOBqLIjGvcxfg6l23FIbz3Ewrf1+YAEf0tGmeLRVqLK+EiyPqZEr9Z56QM4zWF66b096IydmqMp64W83er25WHki+I0zz7C5SDYFvLS2ttUJjPhlLTbZp8HLnipIzRlDLHX6VYMh/JZjaU/KZzgeY+MvbciY+sR8A0avpVHhZgETsC2DpLNGZbcIRyLbqJCKH5GJ5+TY8OlPP9c9Fn8IlPOoeHh+JnQjur2A1ggLeuWGDPcBcBmdFpHUUY9W8C3oLsiZZdzayE3gF1t4FUVnO9bmk43hWWarx8Wn5x0q7C/TEUe05cVIx3Ou0O41ZyXKgjdmWVgafKXt7ktuPkywxUd2Ah9mU2gkNY4+vXX+qrt/sf8bW9jYitKU0EFj1FNAqKD6RLTfEIdXHOMpfDPIotwFsXNE0ev54VWokAD3Bh7Ck7dwhv0th6BiNYRXKRfEZCCAwxLfRmeIGyrFTjAmfHuap7P+NAWt7b02rMSTLRhldp2V48s6XzLrfhHPnnQB6DnpGSLjOOuwn9rszesALL2v0QgV+WDUl6csWvwUpXXYlQTIwn2R7C95TNjUoGlWEFmKT+HmhF6B9/hGTdxrO6IwJVZR7VgbJopCLXc/BUaF23nD2WuxGKl8Srq2XHGR4w5Jc8W16/NJiA9ArhL/MCWMt+Wfzwxmho7e9euJpEOY/7xE+NFXF7kibxwfV3kESZV/CTsaf8K1tOz7sdwMMQ5uaevsS9JoByUpUkomkrO6x35v3x4ID5pOo7tvrJgmJkaixiVXjqQBnVrkseI4mcMebN4YRxTQ5vISapBHCwuBJ41ucAqv8CzDR2NBlb9cMdOAX6zk+ZT3ULso82BPA/8rHvChwdJ9M=
+       properties :
+        x : 156
+        y : 206
+        width : 16
+        height : 16
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : IMG_REPETITION
+       identifier : 0x26b9f9ac1b3716a3
+       internal_properties : CAAAAAgAAADBkLVfZ3yBXA7yaRE6SqTAA1mCtMj7BwdMHEu9WAGB2u16thTWGTaXxgaoYLdIRrlpNx5nLtNLC56FNAfl58jeOOc7+khMaLjCEmz4ZLLZhYXcRVZqZjfBbtjztAq6uWuI1QZjFLj/Vzn9GwUxOUd2EXR9jXrdlJzNTYVbkvMOL/8sviQy5fOWGdZJvJDJjf4SNYOX2mnrgJ/II+FAS5W03qpzjRuwDRbtptcYNv2NCflDji9jHEYWXENBjEUNrFo4oyN6AP8HT6FuEj7D5taknIeoFTfrUJNih2qhhRTvQoRAyWqnQFKmjxvMpazKyV3g6MhE2cCdIHrW7ypZoDDOoHYwFszhJIinvLXTo5O+VqX2HWgQW9ivtgPMCdK7jtU1/eXxLvieFid6wfgwdaKbGIXht1BvDlbisOFMYLRUH++AF2Fm5gdz7TUlPDvqtVL/yuawf8EotmsgX9NCq9FeYXDJDLbBiEeVPBm5PrGGPH8iOXX6WfyPsJ1IHS8RQxU4PJPHL5TPTc2skxyWaA0wAkuK3LQB7YCYCltHzctaxdWl+dV8QlEVpjxhLATr+EzLdxKG200oFVdE9fuV+SagPPrhr34Mft1/mkXOJr5QDz8p++fyYTK75CrZyYGBHlhMV6KMWjYZOkaM9eHsLb6hwfLRm7pgDIpHC2RrFluv1NlFCAryqigvKjS/ZbaQba46RaezHUdo/ycJ/XiwTm4yvzpkp/loFesSJjrE3hrsiMsdat8W8JsTP9NVapYO4PXGkCJdWkxBFYfRbD1wGnEh1kc+6KRL85CRXkGy5MeaH1zA/8Xg+RciCU15DqKmo9W1yI2hXXjza7e0L4JxXyh9vZx1f869+gTExTkelpb81PUUrqOEYMA3/gOoyf2vVtUDc4PRXJm7SB9WxfwOA6biHykSMsY=
+       properties :
+        x : 165
+        y : 3
+        width : 10
+        height : 10
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         // Procedure called before each appointment drawing in an Organizer, Scheduler or TimeLine control
+         // This code is re-run for EACH appointment display
+         PROCEDURE IW_WinDevViewAPT( EventOrAPT )
+         //EventOrAPT: Appointment or Event to draw
+         
+         // => SourceToScreen
+         STC_Details 						= EventOrAPT.Content
+         STC_APTTitle 					= EventOrAPT.Title
+         STC_BackgroundAPTTitle..BrushColor	= EventOrAPT.BrushColor
+         IMG_Image1..Value 				= EventOrAPT.Image
+         IMG_Important..Visible			= (EventOrAPT.Importance <> 0)
+         IMG_REPETITION..Visible			= EventOrAPT.WithRepetition
+         
+         
+         // if the ATP is small and if we have a logo
+         IF MySelf..Height <= 2*STC_BackgroundAPTTitle..Height _AND_  EventOrAPT.Image<>"" THEN
+         	// place the caption beside the title
+         	IMG_Image1..Y = STC_APTTitle..Y
+         	STC_APTTitle..X = IMG_Image1..X + IMG_Image1..Width
+         END
+      -
+        type : 15
+      -
+        type : 16
+ menu :
+  name : _Menu
+  identifier : 0x2acc86310b04310d
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x1604078b00a59a31
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

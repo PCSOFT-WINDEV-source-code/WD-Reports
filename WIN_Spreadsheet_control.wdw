@@ -1,0 +1,224 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Spreadsheet_control
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Spreadsheet_control
+ identifier : 0x26b9f9af1c4d1f4d
+ internal_properties : CAAAAAgAAADPXUfgZkfynUcP9NW50R1yX0vpsdwQNlYihXLvgWCX+bQOlmDKPiew7RzdIabLOPABhj53SwXiW4cUsO8/resGyXU0Ud694EZn2mJh2VJoJslfciACR1ZIMefWUu+ODm7mIHdWTfoYu/MuEi7R1KcpAiEl9tXLtDsI4VZoZqXMegxjiaSit0Fs+iSrun6e5BKTVBsFe3pcjHjIwopUsawzTpNwpPgNFN8X7H+vJ5dttjflgRUWWS0Qm5LtRYMP22MhhlKZ8Gi1KNtjtuMqF27SD8UBy2JwSCZWD1Ly75/ZQZGzmsZMka33SyjcqhrtUKJzkLD3cH938R4iQBL5krzoGBaEaUtFQFQD3wM7CrF/PSF6JxAHw4Sw+g31cHRo/jQGXAz71hGOyVQMcvlYw3ryEryYK6avhSiDF+2wDa2q9VeT/dDvdeE5IsjitKO8U0aUfpauX5Fxx8QrJ3j2n2F3PMk0xIu5iO1u55okSbNYFGzjRhzHnr6CWghMD1pPm9cx60He18TrcuOUQV6LSg03v66uyYZ9yEI31xIGJabx1gfYo5JNv2YLGKr9nqV643n/GIQ7sV9HN+PN7xr/JJPKgAUrXpR63jxXFDGAN+zAGIxZw9KQhbccGMic2XZ/dBXRrWVS29QLteHd4ytnAoa+TNpMj4phqHOy5h2ebhOcTUdKrss+KrBmgaMO3/KNxvLJXHb0Hqbs0hpxhNS/Ufa91rte1KGL8Va+XpJdiWrtMhu/VcokID57WHj44iJbUI2tepgEsihvbQ89Eokvlerlm8BM
+ properties :
+  width : 1256
+  height : 540
+  widthClient : 1254
+  heightClient : 508
+ controls :
+  -
+    name : BTN_PRINT
+    identifier : 0x26b9f9af1c4e1f4d
+    internal_properties : CAAAAAgAAAC7IE1r2xYazLEQCdlbmE3uFtO9Ve9d4gNlhqih2AIizxyFC+LkQqXxSaeqclyAzxpnvhUZoRfsMcBuESthN7LMXIxWiSKN9VrVuCXEgH7nW7ctpcF6SsU/MxZBkITMao438w7hjJvPPxxqNBqROflzbFBlDqyo6CHN9lO5T4wggQnYo6zFA+4qsFX8sezuznv2cU8lD1aqcokQCvSO9wbWE5S6kYD0C7rFoFqzTlaY6xG5A1WlVSROWbjBbSqEQBUx4+p6mAZGhPLziP5oHWrPuXqg1ftmxIv/ogVds+RrEIs4tLzpcdDQgnEymTCtstad+v5V55lQzrWmQsOBkI/2FZXiG9KrdQ3mYAs4/vVbpp/4sEC9BbGrzpjpGNdLcOBEq6/Nf62kobthzWDZ+HJu8p3RrNCu/F2W8lNcHdc0ZlGhsn6UJfoUKjQ19hbUBA6LN40+1r399VveUHOJJNI1WUA+/FK3RUB1XquzhibpucNxT11b0PmPMtwi6SWd5bb4A3K2/YDFePQDkEknXcsOoVCSyiey5bqNPYTNuyUsReXFR/ap2dk7KW628oC0l1psvC1iQrkbr1Xe3mpTH/Vc8HS5VEgLQjSfORNCbaZT2Ge3ASAMT7EvbkdoOXAg+qelmUrIsPJKn797vhwgeDQG953dWit8qZW6qMY3tIzXu7ak44AaDijb6sV0LJ4cQAFy1KbuQXsk1FOFtjNvhxb0VJ49OBmiJgpFgq039vgIbrZ5gKHhIzmNwPzD8XQ2I2SCUE1kQ2E3M2VtBtlrvokzs0DPOAatM16LWFCIFaNwX/r2hf55R/O5EZ0NBgVdWDV8yP28/lYajL3tQ8KXCFe4yRKkn6qfiOTbz0Zi1M5m3Xf27AIlsSFTWtHpX97ZPvNl6yVeuUFh4GjKz/8ayhJI0ors2j87AfMi48XPiBvLUBubnmOdxZxZcw==
+    properties :
+     x : 996
+     y : 456
+     width : 166
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Open the preview window
+         iPreview(i100)
+         
+         // Print the spreadsheet control
+         iPrintReport(RPT_Spreadsheet)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Close
+    identifier : 0x26b9f9af1c4f1f4d
+    internal_properties : CAAAAAgAAAChAVZguB6MJVN41yx4X/M853HmixTbGPQhblouy4RmbC02NRWwYiyL560fc+6lpKr8XpH9V426UDYA3Clc7IG3ucWHnwGuqH9CoClYySUNUDQ9i8/7/NT+8CPE1h1HnhoF2iZJU8PpHj4SDXWy77WOQyApuzvOzvtfJXSY06IxTT0ZUCeCDPQhZfunFRcZH9gZ8oiSoMYzSpSgB7WqxJgq73AYHI2tZySmxI58m35vYf6STyy36G7rElqtYE+WyTQAe/ITQ3f84bwzjzZJkCAPOm7ICkLhYjXS1xodwA206BMRvcdY8npifdvMJij7JxcIm3cWuqsyVMIemEkgGnO13gW9ff8rLert94vyzkCdPXaFC98LZcJOuFzWkFEszPSJIcgGGCjl8YvCZSWinQ4kPsVtV70genJ/qehrKXLzaYiiCtft3rqs/BU1Z0QHc1C+zoZOw9xfvjnO7mrOCXV1RrzVqrmWSjlWKAGpl6c+X5LKiUIabLv/obxs3q+N/1DcjXyXg8misknRImJp4ADDd3zHZmtDLRA3d9Jddmw+f+bpgeAHF0Vh3Fcjr1LtPdqfjHmEi+sf2RpLCkSpJHxDhQ9/wWpW4WLjimJtHn5Slm1amJiiJ/bZVKjAvAZBwmWd7g21WL7lNtITKz3FmzfCaMdoHWqQ81eIhUgQdQBo5iySNbhXmPgk6pvmCJqrOZEGZX6kL+gq8r6ZEo/KDf/QEKmw4xIuUU1od6g3kUIGNT23U0J6XMV2MbUYtyquYoFAPqexf/SpmgE9tsgRsDjjbzTbWIVUqyZvLfXcniu/Ik2+pbCxAsbtm+vleb4IVPm7k4v9RNgJlatq3CLkSFqcI8Y8P9F2cIX4sVAuiTjp8cTLH4+++/4B6jY+w96hkVlhun90eBQdNaym7eM4wH19zF4spAX9Og==
+    properties :
+     x : 1168
+     y : 456
+     width : 80
+     height : 46
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_TITLE
+    identifier : 0x26b9f9af1c501f4d
+    internal_properties : CAAAAAgAAADS55zUtbR6XPdr2uE9Er9K5+kTCIZl+zl+6G9dTQIgukTJEsZyni1F8xQZ8jGpSczJaudy8lfSqGnXg5ZdHSxECFaR47Exp2f7Mv0DyPacMmBuoBYamy6vhRCvivamaTkyvNmA79qOHYZDUHtt20jf3HO3KHZUiOyLe+5WlukkzKlKjgwH9vXz652DoBeJOd3MUQtf+uLKN2f9ngCnl087MrnOsC2mulps53w+6q3uXJf7iD7n87Gwl+bxLtzj9h4rYq+C6Ne5MEz5ljdB9kJcGgODZTUDkOViYoeHudtGRdcOrHZ6u/LnbOpWvJm2M9P2Owy2xKIdEB28V9TRcJgt5YQNQJ/7sAiAABmglSgvHiEKj3idEPhKST4XwCifoh9TR8KvobnfhyCiUxTgoMZaQMYCRhLn63Tk2C8WXP7EMUQ4KLHH8jzo6Xrfqz2FXENZSU5U1t6Al0w7RbgcO1xrf8ccds81QtNI5ofaTu9dat8Dzx6B8uUUvUDxKK8Rlh3NxzbsICZ9h/NJqOuDdWZhR61WFAV8laY8BadzRGvXa6LZjUPz
+    properties :
+     x : 7
+     y : 8
+     width : 942
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : PSHEET_Spreadsheet
+    identifier : 0x26b9f9af1c511f4d
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 34
+     width : 1242
+     height : 416
+    columns : []
+    type : 114
+    code_elements :
+     type_code : 137
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+   -
+     code : |1+
+      xBorder is a Border // To add a border into the spreadsheet
+      
+      // Add data into the spreadsheet
+      SpreadsheetAddData(PSHEET_Spreadsheet,1,1,"Reference")
+      SpreadsheetAddData(PSHEET_Spreadsheet,2,1,"Product caption")
+      SpreadsheetAddData(PSHEET_Spreadsheet,3,1,"Description")
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"A1","C1")
+      SpreadsheetStyleSelection(PSHEET_Spreadsheet,psheetBold,True)
+      
+      // Add borders
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"A1","C1")
+      xBorder..Thickness = 2
+      xBorder..Color = Black
+      
+      
+      SpreadsheetBorderSelection(PSHEET_Spreadsheet, xBorder)
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"A2","C9")
+      xBorder..Thickness = 0.5
+      xBorder..Color = Black
+      SpreadsheetBorderSelection(PSHEET_Spreadsheet, xBorder)
+      
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"A2","A9")
+      xBorder..Thickness = 0.5
+      xBorder..Color = Black
+      SpreadsheetBorderSelection(PSHEET_Spreadsheet, xBorder)
+      
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"B2","B9")
+      xBorder..Thickness = 0.5
+      xBorder..Color = Black
+      SpreadsheetBorderSelection(PSHEET_Spreadsheet, xBorder)
+      
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"C2","C9")
+      xBorder..Thickness = 0.5
+      xBorder..Color = Black
+      SpreadsheetBorderSelection(PSHEET_Spreadsheet, xBorder)
+      
+      
+      // load products in the control
+      //open the file to read it
+      HOpen(PRODUCT)
+      //position on the first file record
+      HReadFirst(PRODUCT)
+      FOR i = 1 TO 8
+      	SpreadsheetAddData(PSHEET_Spreadsheet,1,i+1,PRODUCT.Reference)
+      	SpreadsheetAddData(PSHEET_Spreadsheet,2,i+1,PRODUCT.ProdDesc)
+      	SpreadsheetAddData(PSHEET_Spreadsheet,3,i+1,PRODUCT.Description)
+      	//continue to browse the file to fill the control
+      	HReadNext(PRODUCT)
+      END
+      //close the file that was read
+      HClose(PRODUCT)
+      
+      
+      SpreadsheetStyleSelection(PSHEET_Spreadsheet,psheetFontSize,12)
+      
+      SpreadsheetSelectMinus(PSHEET_Spreadsheet)
+      // Increase the size of references
+      SpreadsheetSelectPlus(PSHEET_Spreadsheet,"A2","A9")
+      SpreadsheetStyleSelection(PSHEET_Spreadsheet,psheetFontSize,16)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x16090ec202e9c909
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text : {}
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

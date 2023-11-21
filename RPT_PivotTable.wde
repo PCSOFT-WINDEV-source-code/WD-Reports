@@ -1,0 +1,154 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : RPT_PivotTable
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x56b9f99d4340da45
+ internal_properties : CAAAAAgAAADe/YDzb+Auu9NFTYEGId8zHFv4fDZdbNIEIU0Liazbi5yzUGxUzTJtLAWxlD0ueIMdEKQA2fX9GaC3f8HQAtdkU5nbo9nX14jfRhAlb+j+vp5bhxbZpnKw9ImCn+4KQGL4jtz3swG2oNy9zIdA0+it8v4b4KxKKPOmYZiP8vC+sTvSeoF4FMmjwzPzdoesY48o4D3HXnE6gTTBJ29W2J9V2Po6Z2T7mwVatP3MciPgyTX2O4R1YHjXf9BDD2tQufkzmq+6Dya023u3UVzuhcbtL6DcIgKOk1YAZwDCLVnEYnteLzKyqM2p2/LmR4+ukUy/2F7mhySpYrTRspU/5xCdEwrNWtZrW0VhTa+C0cFH+BhgbRPRl0v30d9FqhYMlBN0l4m/wRLclngHbeS0jujY17FTFiV44LjmZpJqKTstuDhoJ4wxot57A9mPtIYXcBosbEWgMHqqAH+/9JbwmzUi1sMpx7IicpDshIBH3ob77CDJdCLBw1RRR2dVoiX5Hx7WvsKQvOnDmffs99ko4u9NvYg4WsWLyUk2/SzjUwpfmgvoVVI9w5wGoz8Ej1tgHS9Qx+0QoYQ67h1PewwhJrCf69sXFCWu7IoXt7tMG4RJe4/A0u7Rxq5FmMZQWoleJIjYU3Q/LvyzKyyCroP8VTAvq4B29VDvg7uzAFWjT/Hqj/UKzIGcG6uaS913BTmifVDCQXe305yw/jj9DFgvx+CUt2PlSzCGgyQXgc1bzsojqpkMMSjpSb2Sual5GkIZhj4t5KPzZtzlVUuzUOnohW4S9MbWt3n507tmTNXkXpVW+THTWw==
+ languages :
+  - en-GB
+ blocks :
+  -
+    name : START_OF_DOCUMENT
+    identifier : 0x56b9f99d4341da45
+    internal_properties : CAAAAAgAAAAD6M69EBUrkOWDXdUw0pD8Twmt0vxeZx4pXvZAgyTVp8sQKsV+u67zEu63pz6lF8Fh3JFcf0bi+DcLZRdEP19rVR2+pjqUbx3AZ/kHxEHZcOpaTf2rjy+asRZ2CiZIRNlvKy4pO13Rq4bC/ru6RGHsAwlf4CqAeR6HDPaMyTRF7VCyCttWRChFF02QwB4xKNv/Dxy3rl1Umc6xOwDcJbY67mBLr5qmSe17h3R/S9/e7G0Xu4L7w/jDfewjdCGkk9ENJkLzQNjmKfK664nFciyTt9wjL7Tf
+    controls :
+     -
+       name : DOCTITLE
+       identifier : 0x56b9f99d4342da45
+       internal_properties : CAAAAAgAAAD/KF8kCOz6/b2OR3/Vq7B5nskpifQKE5UPf5T066remPVpilw7PkSV566MAn91AVqgZHsVs1LZHaVU9sXWj0A/mdm/21w5tYqEtmcz+84FYdLzGmycUVCwlC7LlFgafnhN8ez43gxvBhfZNct31fFNerHmK5qCflMB+utEAUAjisbJgfJxWFNbg8zuchzXHn8xQSef3nAQsv80DGJ7cLS+AGMuA/QJ88OmqrzbbhpBoXj01J1GX/52Z9qnOWZWjKNEzxOE+dF/Ucv1o1oshCDLk9T3VK/25ijTmwJziWM3danR8+7LjHij6NZqY5nMAyPzwfByAPflZhAV8nCu8Kaq/3wVyFOHrE+3jEMTlnttyfehaqitW4f7OG3tRPTaWZ9RbeMR4/SEDAqONzzeu0oHr/ITjlbf485bZAmhL78hlls3kNjUsWiHADtlf4lmYaPOnnamHrdfkiHwXNIWx/yKKRCXY4I6g5LAv4Zj0/jpKlZiBfYusXGeypmOPoLV1rLnZ4yZpo3DB4iFG7wot6h7O/luHoMQA/8Xs9jI10Oa21CGTSM9AhVGyx/XA8MG228AYo5U0A==
+       properties :
+        y : 6.615
+        width : 243.79
+        height : 8.995
+       code_elements :
+        type_code : 29
+        p_codes : []
+     -
+       name : CONTROL58
+       identifier : 0x56b9f99d4343da45
+       internal_properties : CAAAAAgAAAAZUz04VkW1CyOWCJzHm23rK3NBuSLUEHvPt/zXk4X3vWHAt2kSi35HjlTNwkd1x4dbquEVb9vvoBfF3mSCqBaCnFPBGptfyhbnRQA2N2b5Rs5Xw0vDfJu15NzzrLFjlePVwuBGkkcnbrVVuE1azZrGXFqWCkKpUiM3/D7JZY+kQQ3Mx+PfamD8HmSJtMgzvIfPeYA6apIA1tQ1vPaTX8cRDSoHY2NbPRsJR9xHo+KQz/jHEIFV4FaMojGMCamsOBcHz5o7MJ74tqwV5luCx5Qx09d0a/XM0FWHDH0yS0pYIA5NnJpsw1HMmsH9U72hhySeccmK2/o2tQKxGwkrA+DLbkP+iIASlqWHc9JnUuNCZG5XF8JF4R0IrMhMj/69RqnexhXdulshvL+CKQ8IfHeINDQHiWjALHkd5LQAXGGekRHhFMx54b6Q/g/We2h7hfAj8J8Uv+Vi
+       properties :
+        x : 203.369
+        width : 32.2
+        height : 5.72
+       code_elements :
+        type_code : 29
+        p_codes : []
+     -
+       name : IMG_PinkCorner
+       identifier : 0x56b9f99d4344da45
+       internal_properties : CAAAAAgAAAAQogOiiwRDlejBGfNy91VwYGZDErphMQAU2ZVrtBW1/rYKxBsy5VjkjarYKd/ZVJBU5h4O5jQxID4jUYvr+MJO/5XNVyOtVAsli3kertkb4FqvjRxVe1xbvN6przzOk+X7aSCcQwMVZvUT3cNTXPSObmhyJcWHUFNUcOM0XsPLu0OzyQg+sYjFnP70jHPmohTWWvSBdp9k7kaVuytemkjgaoDOkZTMjrF0nZETBmu3xAY711K2gF3su0Zf1S2e4478ElfWMq5VUqn03jz/iB3XkIU7baU6Ng0QLOXWqew8M7pDt0rcVjxLRbzv0XHi6S2fx+dz5bCPvuwqF+Us2MiW3vIbM5ASpwIGbl1rBpP2w64ySMuN/Tl5rr9fof2TUlZoFZH2QYbdlFkYMenPtHBXDRW95Qlq+hBb8nNX2IHdCE5jSJKiuCkI2m4tSe4l2l4p7Cfe+/jfDlXdb+WH9OXZ4GdCMxdz8+pDNcjgbLnnIjonOH2rAiUuON0KR/XXNNjg0wcMKmF7QjocEEaEVsrIwNuDiJkYXo3N6JcHqw9OAUoo0sa5pR8xNl5X5aBfpkfRK1pd00UW2uIcl2+L
+       properties :
+        x : 243.771
+        width : 13.229
+        height : 13.229
+       code_elements :
+        type_code : 29
+        p_codes :
+         -
+           code : |1+
+            //Runs the process defined in the template
+           type : 327694
+         -
+           code : |1+
+            //Runs the process defined in the template
+           type : 327692
+         -
+           code : |1+
+            //Runs the process defined in the template
+           type : 327699
+    properties :
+     width : 257.
+     height : 15.834
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : HEADER
+    identifier : 0x56b9f99d4345da45
+    internal_properties : CAAAAAgAAACQ+DJPstjY95xblGs3XwxK+LjMc/iJEd5J8jr6AASvlUe1t6Xu8TJN9nnwhS8HKiNUxjoEznSKxce3T59wNPu0EYpxcJfiS6KfaYLro0OjsKJnZGmG4eIb8XN7KH2FaOFf4hX0ydbkJINknt5/sDa/pgnxA9mdcZ7W46asAkU1TSaSxoNh6Ex+5TORJ5vrMqFOE6zlaPnulH7xbygntgI1VBGigZU3hLObBfINdheoIicSN/nLHZxulxWb28Q7j3SqPFJTD1Q=
+    properties :
+     y : 15.834
+     width : 257.
+     height : 6.
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : BODY
+    identifier : 0x56b9f99d4346da55
+    internal_properties : CAAAAAgAAAAstze4CHXJlOqXYqX1CeZHDJAidq5N6d7GQjSmTcwmraJFxrDBpPsUcb/Cvxdr2Sj5zN94/mBpo1hhrbAuJUmPQoOT/TUcIdINuTCh5awiyqk9dNOetgx8+c3QOkO3cvGRrb4eioOi4EVXsfXeFfl48u0z8EUNKulb4eE/Vw/GOdvkht8a9vuHa+nEUj+x5z/xwvVJTZeSqKOduH89g7Inf7cx7xgJwR+5O4m90kr7wqKlJhy+2F+wrFtrTyp3H8g7Ow==
+    controls :
+     -
+       name : PVT_NoName
+       identifier : 0x56b9f99d4347da55
+       internal_properties : CAAAAAgAAABv+Tp1wbNt4fW1Aqn9yszr8zICPzXcULEHwRFqYO8zRNEWXS1tlL3b4JVxTfN3JM/YwRn93Nk1cYtnOFzxyOGrTDVKpPydE8i/ML+iDosZz6JCn8MSIQryZBZXyxPW9ogN4G89itVV692d6BKN29JYE1vgN4FmI6K2caTMDBVFQn+lgvK5/mAu1bnMTmlcq2j7UYfWIbV3av7VBYGpb12ouBqSO2ClJ0FVHpYGfWvfKMxn0K/yE0QAGkxs/vDCjehX0fAQNzoBjGtd9k/erLP1U8y3SuAemGP1Uao7HqbXeUy/OMRY4epJvOQeTwG+eVSDZG8qEvUe5MFvObzvwgkhXjs17NbpBqAwj6ptM7fZ+m3K4z4t6F1+KTuxafgxzQXp9TG7r/KtJ4r1btnqpyz98I2HfK15V1Yeo9SmVQWAAhm9irlbKyRpuTWGvfXCi/VbLhNIV8bxfmz+aLat/Ckayw==
+       properties :
+        x : 0.108
+        width : 152.929
+        height : 6.086
+       code_elements :
+        type_code : 139
+        p_codes : []
+    properties :
+     y : 21.834
+     width : 257.
+     height : 6.2
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+  -
+    name : PAGE_FOOTER
+    identifier : 0x56b9f99d4348da55
+    internal_properties : CAAAAAgAAABOyS4HBI0ebEJtLptOnsCuXYsIuCFhJaeBavNl6wnuefJ8HUgS0ZqloJ+T8bopjT7XIsB+SdT1h1/6entE2vhQzGy762Qk0BIwV7DUX+SEeGoDmN2nweJmSxG9Lq6A5XFMuBDzsNGe84KbyR2oVVtZDCrmwIQp4zNv4Dg/wUovuArWZJw8OmNVAP7fX1o9eyILBGG8CWZfOY7CFAsulp2UcFfP4rkiDvCGLk4PlMInONpd3iB2hRwSmL9Z9DCcmf7KT4OzETKPGWiA/jlRHgEC
+    controls :
+     -
+       name : NUMNBPAGES
+       identifier : 0x56b9f99d4349da55
+       internal_properties : CAAAAAgAAABWhxHBD33r1JCF9hkLz1dTHG9Ohx6xP7bEdCeBZ5FYowxiQBqTmrjFis0NFHeocc/TL64ZnVtKJVicb4jNUEtZaFXOouNMGyZAONYACZ33QDE04xERlC/cn3JNNwVkxZK2hQIA3d42Dw5JptWI9TmVxDLpnYOCHLE7Sb2AoRfGDg2qxzvLVSemGR/PAgRGRZ+6II+vgE9cjt7vLXj6QF3G6JTkYiukyZuEAGH0xkZNi0khOI2mwqv563dt+KpmeWpPHSoQ7qjM/eGkJ2xOXEbpqEsgXbw6pLGDR6DLS071E/ivhy5NGZPJocxpm+mjNkmVKREmiMMT5LLxijDNRfP9D65ggIbD51vUwaj9vbs2XBIeE/JysLfH6Co+xMNDmNHyHTAQ0BmpRGNoNAFazWREy1Gj33TSGtvt6W6Xe/5rsw6199nYdH+FRptOCLuV5AUYu85PXo5pQzwS/aWs+A2Z9hJuy3GeBG0l7M5J4PO8h67qRflrqeWKJy5m1pHMi0jSdmGE/mg0tmjIx/ZoPi890A==
+       properties :
+        x : 223.721
+        y : 0.7
+        width : 33.279
+        height : 5.72
+       code_elements :
+        type_code : 29
+        p_codes : []
+    properties :
+     y : 28.034
+     width : 257.
+     height : 6.68
+    code_elements :
+     type_code : 30
+     p_codes :
+      -
+        type : 327697
+        enabled : false
+ controls : []
+ code_elements :
+  type_code : 13
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : ETAT_SansNom1
+resources :
+ string_res :
+  identifier : 0x1609111c0307f88a
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

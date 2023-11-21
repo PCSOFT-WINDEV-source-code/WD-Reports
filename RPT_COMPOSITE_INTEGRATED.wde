@@ -1,0 +1,90 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : RPT_COMPOSITE_INTEGRATED
+ major_version : 28
+ minor_version : 0
+ type : 3
+ description : ""
+ subtype : 0
+report :
+ identifier : 0x56b9f99d4193d93c
+ internal_properties : CAAAAAgAAADSdmgBP7OB005jNQpVq6B2pOBz2AUqO6AtzQ4arnmcpPszNMV6A/LtT08QIZJs5gkyaa0kqe11ysU1YVf91jYyS0bKhFQ8cdeM6tdjxy5i8GIp8auXOnHP/yoTBuFnkE/KwkvGcRWbZb5RikFUZbNdOyc+/e71WfpYcl84LDkJu25xCSYSzVcU2gH0an67B1UQrvz/7bpV/AUJ4WMBTwGUvMfAui3LIch0hPcrIoFiRGFspFnjgVuTXSC5OwKZeCHD8U+pp4BNVADCvhbZ+x5ZWhaOas6J4YoQOjVglrVtN9UztX4d7SYp1/bixXnfKfrXbPzG6UimwV4rj+DLijhlTUH2x53jq2wNz9f0gODUHYI9uY5XMRegwTo6rXMxWld0nPvdL5houp6S3Ilv5+8qN/e/uismBy5/f8vIwNpUrAw7SrxcisQPHg3HBUCkGOwo7Ayl//Q1kp8jHT8BOzd4FSVkd6uqcm5SgOBu6wUJ6qipxWnfeowAQS9guy4z6sQWSEYtlmoLBHOWK4qUbHGEgmTXFOhWZWsDWO0Y43FrX0QqlM9j0FAvfS7Em5AytHXDYP7dfcemkmTP7Ou1s3yJd70P82VbqMbgtlfmgCPXdamqZeA2nkvT8R4tAfXHORiTnfCVjr6YEDCqJzFqkcqj20oIwL4QEZDnbozooTWNy4mK8AZ+0EDdvp7wsjk0HuOGDf8GTMAzZmqMVfp5Z4vUxNKBebnV71fWEFEhyLEALrXXAJZguc5cwfS9n9v04tObOv+m4obfgeT7PovBSQ8kV5SvyLVT/imL1JrDlFUGvLTtH/xYFZbSPFv0fwn6UISmA3+K2AIthyHtxnszPf7gqmOgNilypxv5u3mp82p8dvQEzTWh8WdsOeJUowbfGaNQ0URHUoVQJXOoJ6uOl9PWNZTR6asZBgnf0Iq4EqSxHSwMagdQ+zY3n7Yx+UxBvoAbx2drPBzFIscdWMJMbw5V5MfZGr6w1/4SLzRthnJ4ktxRXwZiK7r6dAjAGlt7eLqnl1UYUW0N0+cW8oXzTVWxVdTSrCFprmmuxV1Wy1xJRtYdR6lsQ7k/T7EGjQ==
+ languages :
+  - en-GB
+ subreports :
+  -
+    name : SRPT_DataBinding
+    identifier : 0x56b9f99d4194d93c
+    internal_properties : CAAAAAgAAAA/owVPpKsHfkOPUXdoH0oyKaN0F35gSEoVNhBg/96yZvNoylIu5xQYgnT+CQykQj9LmLBbCny7Aq+V5s3juPcXkZUFlPbWiMZKQhSFrR8xtpQJo5uQE9bwJwCFLYvY3IlTBzm4Pv7WurT03tJBRbhkxGAEGPgTUt2hxbw4+U5mms+Ipz22t77P4Fv0shkIt/ERx0E1jLUGHPsXDA7/87nLLoX0wCnkH+CfWdum3Wre8p3RssJbWMOI4HgKqr+PD2r3DbIH59c7MRlKMXrblT946U14+Zfg3V+QjgMQd/8vam7LzrR3URPTcNr7y9TLEqimmuYi/5+wp4f34ns1hdJlNhCCrWv120UEwEFUj7/qCzixvU4mryAOTYMhGh5Rc7iUc3Ua4euYo3yByslR5JP78tAbKL4slp7eW2Q7Dqm4qnF4MhGgyKHxKg43UGLzuxIz
+    code_elements :
+     type_code : 13
+     p_codes : []
+  -
+    name : SRPT_AutoTextFile
+    identifier : 0x56b9f99d4195d93c
+    internal_properties : CAAAAAgAAABL0DAL3r3LsvUHdWWJ0SeXA90xnoTSWUfiQm8nWxOcLaou8OBWMDO33QCOHIJX+Rk/lmgHlKm1npGFtzXgqdmCSycqov+xb1eXhMDHGEvnWbeH/HC3KFMtnGAVOl1d82uEz/aleYXS/esay8wuRIhYFX5fiP6qh9RjN+chZ3wIBlrCnxx0GvgoyklsAG+zGYI2/JVhCG87dziF/vdaf0+JaBQqJulfvOR+wlEhyX4Ek9DsbvlVw3vhiRam038p0w0syzr3nrnUbNt0xtlfOD3NClWcISQzQEzGNK22kM0k6gndXFhU2LQTOeDHQUd619G8iDGBCAOlP4OHtRnWqWVoy27+N/BuS9LWfVMQdEo3FZd1J+UiUsgGX7tEpzOlKlWb3POxbGhlpx3DRkeffy2DiN0e0TUiH1YGdH4RWlc9cdrJCxbSVpdx+9DfRjHtQYVoIUYx
+    code_elements :
+     type_code : 13
+     p_codes : []
+ code_elements :
+  type_code : 13
+  p_codes :
+   -
+     type : 327695
+     enabled : false
+   -
+     type : 327696
+     enabled : false
+  orphans :
+   -
+     name : SETAT_DataBinding
+     identifier : 0x5604feba1d88296b
+     code_elements :
+      type_code : 13
+      p_codes :
+       -
+         type : 327680
+         enabled : false
+       -
+         type : 327695
+         enabled : false
+       -
+         type : 327696
+         enabled : false
+       -
+         type : 327682
+         enabled : false
+       -
+         type : 327704
+         enabled : false
+   -
+     name : SETAT_FichierTexteAuto
+     identifier : 0x5604feba1d8d296b
+     code_elements :
+      type_code : 13
+      p_codes :
+       -
+         type : 327680
+         enabled : false
+       -
+         type : 327695
+         enabled : false
+       -
+         type : 327696
+         enabled : false
+       -
+         type : 327682
+         enabled : false
+       -
+         type : 327704
+         enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : ETAT_SansNom1
+resources :
+ string_res :
+  identifier : 0x1604feba0114296b
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

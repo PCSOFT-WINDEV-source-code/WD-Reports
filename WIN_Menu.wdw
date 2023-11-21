@@ -1,0 +1,586 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Menu
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Menu
+ identifier : 0x26b9f9ab1aac10c7
+ internal_properties : CAAAAAgAAAA+W2Z2/RHdbUOELo3Qu4KQvpqHf98ForsIPNZRFniPdj4s82ERaeR4fhtNz8vSlbPmZZQpcjx+emcCa0eOhDpBBI/c7Xbx6xe2Qykmr99buBWozZmjt/A5oG8vGVXc26ktfmXLk3wKcO1eiinrD423fZ6QUW9IEr29tb+BbIKIrUAJwrXWcEWnJvZ7xUZyFZHruJxXwZSJlbZxwoufOXqSRC0hJqo7WMZOII2nmJXq6q88OQc5G4nnQJX7KKd390J43V1aJO4i086qOGtvnFQF2QJ0dbK1Onh21pH5CoxmJOjKo6vm1HP/S8rycd1f7KuN/PLpu4CBpcECAiFTRaJ2VR/n5etookmChKBIYHAVaBMZ1BvxGPoTuIKokD6EXvSGPoIOszMCqYLc4DKH9f0F2HnD29QGihQzZiaeDqYgKQpNhIKjZ/Y6G0x2cSlhGDvORRN7pd3ZhxWE12ur0ZVDlPFaDtKWx0EfZDm54c6rapoo9jKsvkeqIBwqAl2YL50Wj9mw0F4C5RjwtFrAPLV5BvlwxY+FIc+pP/NjIJXLNZB8xibHa2IaHLwkSvFVKh7VnK6OtqxHrsZWNshyfZqsKBUJZMmPwXjdmg/1maxbsg3gBKoZ+Sw7ieu3LSMYBYiB4ofmX5/NFgM+ZIMVknlUbOxa8U+33XziFb3M7YOmqj979SMUIMFQHGehTRzylnOw8ekmknHmlLNL455MOvVRgoUG5NCuVT98YJeQTrZubXh9Z9dxg4rV1m1p6V4wUOgHzaGkvWrsIb0MZladxBkq
+ properties :
+  width : 861
+  height : 513
+  widthClient : 859
+  heightClient : 481
+ controls :
+  -
+    name : TAB_SELECT_REPORT_TYPE
+    identifier : 0x26b9f9ab1aad10c7
+    internal_properties : CAAAAAgAAABOjyxbyW13aYGp4m0cV+86up63ada57aKs9fDjA/VMvjMVMj7Fyaus3baa/9PCZy5E8eT4v3eZvaX/2Z37kLJhxdtPSKOnOoXO7oGBcgf3czSXoWIxmorI2pcxRzMmgnezdR+drfRysHjrhV/YrHnQGYQ04gYCgLThen9d2I1w2JizG7Xm8G2RfobEGlC/0KvgZxLIx6oo2fO1LfYigt0u60FSVa9dEsF+S8dDoIX12lyIXkzKVduYrC02UUoV1C4GNWUa+qMjERV550zWgWxpIxkWDtTfNV9nUm0ec6ydJn6FT6LsE20+G/OZxxNZqwlRbv5QONYKWbQIC6ePbzPZxNwSL7yvlTHc37s+ac2PklLBivBAn97XRPYn5oy6+WitztCfInBZMJf18AxggVSuqCmtPztzfrBRQuwUNGEBxQlH+s6A17gt3oDjwopJl80KNJTgYAdQEn1nxaEEy8lgivHCJmxRJCtTjs01C3s+Z38rUJ+DAqF9Z/JwdzBbHFLKUSdV6TcOA9U6qzwr5FRy1Ng+pwMAdWq5PoYSYdOr5fqIJfVDjMdZfeXRb3ZxuuyBHulQt4NShic3u40sEH537QRBQGjuGFPW92Ib7/9ZX4RsUBDYxmi7WE5CbLLp8M21aIg6g3Ow/VnOSkFiu3bmNsEbI4sFJFE/O3kaRBdpg3dTmuCwCV9Y+y9rvpaqKlpTjLqb3s1XL8U9bxTlnY8ok8a+cHEywSgaqB/uf+U2kYn8/18pLcISiSfGNpjzeWBy/XtRhJap6w/+HS5ekOPwfojHU0foa1jeBtfM3jSPam7xhyHkZjW6LQ6podc1/xWhBerzTAaYpqYSdWhNVfpbBWjhTyIee4rd6+pJOG8Bm29rA2SlYPdbrwpEZaCwg5Hu2dt9mgjN7oHeXgWQER66Mru4OrBwjg1DGR7H12Cwk8UmuG2bpuuCA46u6HTv/xInpJYD5t4xexHRDR7FF8JYa0B9+XfFih6/ZnlTH5CEikmbuVO6Ac9EJ4yVU9f+y+VvULW9Us7W2gMsH2ZP1o0DWTJTLEcXGqBwR+fBGovd007K2UFdwFZk22xSbTAQ3zXupm47Oy5+3fDojpue02LEagmkVjvsdxx3SgCwcGtG1aXhtnWVrkgFX7Bqm/z5BKhmlbXKAX41TCCuSsV1OvSQUi4QNmtGU0s1wOCK3VqL7dAPj5WgSuXvGidTOHbtWglFmjV8BMBzvj7P+sMdp0cdJhm6KQpHbs/gf4CFZLNFsIMw6zNxclONw9YdnN36
+    properties :
+     x : 6
+     y : 79
+     width : 847
+     height : 396
+    tabs :
+     -
+       internal_properties : CAAAAAgAAADU5FIy4nwpk9nIUEfezIjoh/UcVZ6+FlVXs08D0x/ErgUhGxrU+QbsP4MtpkmRzgTg/J1IYJIK8dt+KjrGLxG5MRpFmHJAc6K3W5C3a08aXvWr7T7d0ZsdHQ0RhBE6XiZpY0GRf53lZZELPyenyw7g8FvYP/5ctL0XY4zFh6X+Gyr0gdo0EmIeNsXByBh9jU9BxQ==
+       controls :
+        -
+          name : RADIO_PRINT_DATA
+          identifier : 0x26b9f9ab1aaf10c7
+          internal_properties : CAAAAAgAAAAOarkOBjJtLt3VRn+XnuwcMSExH+YoIMrdUU4DzzByzrzOlJeiCDaqhNQCnNp/IplznfvWE8dF0yOJpSgA+/0nq/HDgLFVo1chYYC7NdqTdHTot1cHB39gmqN2Q1tR9mt3H0SmaNbS0HAbgGwdCu7r002pb5YcfV/KQnRXSZj+vIAT1fvtrOkOKMNyiCO29HPiL+tLcyyR/8jkJi2o1fiEvlON/j6cGcM2klsUgIEmyKfJU8IBlwBn7bIoB74BB5DzXRvsspf0XNoCgwgtfd57i0RpTgGlFrLdRmBRvi8ndwsBTRrO0P7sPME3ReU/aPEJqDQr0Oc7RY3tgKlgY7JqRAxEq+WVHJoYRpP5Kk/oV26t4o4R+8e2wftvnzANqrDxcPlbrZfdd9zGcwh/BQPSpL4txNuQznyCJGweQIHZ/8jcKwdGhfkOfz0R19Z/dJH/N43hOD4dkjFROarjXtECOuQONCRQopioCwzBbz3Z3K/5qHogK3fxBVBWxQTdHqI1SZ+ZMdoay59X4X4bzNgrFBYw9PBd2eAvhfVLqwMx6FO5T9TtKOZEDp8CGr7Z8s1HYwRGs7n+a/o1KAk+EPqbswIIvpQ1VMKzr7OsKu967NrZ+0wsjNXHUuwgKUt2gK42wbs+6Hqup4njTTbnI6tlgSXoZAguZ5HPTT6+MmIPHsPgYIhvZpVm9DsZVIb3BvCsgrJjs0AvbO9QjCiOJVo81W3bVqiqcopZABU3NY18kBSt5lhLEnLuNUEw3FqZ2zhDpYsIBVMuaCazOxl5jaPr/2vWxelmrsiuHmyEmJjKNiNRAy9v8LoWFHS00vlF/OL8oynioMX+YImHAw0A7EOFr8RSgknq/mKMDY/ERXCc7U8IU26Ujd+mga5U44Qo59EAe9mTEJelKn6MDGPrgRn3xdvF7Sv/AykPmFZ0Zm1pMdOBMxFufhf8Y+v+PHlnGGDCAEqGtuivWDw/FYzr3MnrnZCS2cF8CnUavjE+59qpoTdYV3exqNUQ5BJMGwRKLd3Z8xWTSWxj+ThETNuyjlk52dc1sBqdGYlR7vV+zCPd+VcLIkQvZxNNyjt/W2yOGnzChqe8tV1dssHzPFB/EDAAOZ26Kt4qPZD6e3k9GWF/hZNklZXRKuj5+GcHeeR8ckvISCnFN2yL4aFkKJ5326cKRLVFpk2Ij4DhGtJOT7ddmVfeoXgMzPavJBVA/A/g1EYte5VD2IwBxvRyBPyKBkF1Gx8=
+          properties :
+           x : 6
+           y : 91
+           width : 835
+           height : 180
+          options :
+           -
+             internal_properties : CAAAAAgAAADmCRdr8MgQb9cg1SdbQnZ05XnfKpo4HwK5uzJV87pASVS6T1XSRTpPMzWBcL0NYdHs1zirNIj2zLyGhQNXnzy7QDGG0uUwuQ/dxWrcnE9WT0iSUXuAWMvaR6AO0KLJSTG87VErM8l6dk9j+wxTIDdkW5juITiPESm0HP7MjuA6LzNiNofOfI8loIGRB3QZyglzUBBjdIOdzBENkhoLjKQJtyC5AjdmPvKXCEM5eglzM6CyNG0HrSJNdm7e3qzqsYS+P/K6Wh9OjAeqAuo6ft/rEau7mIZs9uVN0ey1AE13BL2K9kxU6E1fCncO81s3fS0HSEQ6b/ZYyGCGGsEiLte362j90BJEdZh0XntrtOmIk7M1a2S0+pKnm7Gh0aYeGmd4e5bRsBIQJhLzeKMe0dBZ+f8CYPbhgrlu72c=
+           -
+             internal_properties : CAAAAAgAAACbUicHLlJOG1/0+WfWqrBouNgI8JJbT2ugxJSNy1g2shNoN7DmbWVxZmM9QWpjfLZXtYPxcgAsdYNlfiPcrDWbmxE79sp7MCl8o39TID2QsijcCfAwAZQ3SPVF0p7EjloLF4Zo5H7N8s/upaknbwbImeqa2UDB7jneh4yuiZ8e8NSRKToOHphNfPE08d5KFB7AZPoKNmrfGFsCJsWV+1m7pecB+ben/xDkocVJlj4rQtJmCmM+4dvsvq26FTQHeds4k2XWDo6B/p57eZDojMn7AM5vfSJw1I8PFWa7zlU8Qfi+pPRgmLf/IaK2hmumEF6+5+DPvuRizp+NWezY98fMVTNKusKTBDbkh55UmbZt4P7EV26jUlLT
+           -
+             internal_properties : CAAAAAgAAABHKHBdOBRFxkzETa7FXD8PfxzKU24Cy1rWofL6VWfVD3K5h6cybz+8IztqaAUVVFvrO0yCa5Q4E2LzAlAvHcinCuZjsb09LVg9TB2c9W+yzN7w0OYIwbYeoL1Ff2dcsKc6NVdj/i5Zsrq3hic+jtDdeni7kjDXZK9UgBvpmcD2XdqF2tROli6vWGrfBDhs9NehvIDlC6kHo5Ywj56ppPE/umraMpzZZsklfYl/16iJ2cdkctZxftbrMHXQ1VVKi6zX/6QD/aNL4rAo6IUy4LAieD7lql3aEqEyOcuLh7qqYzpqq9Pb0XWUBQJ10uHurTortf/wCnHseAmIU4jU6LeghJciXB1CbqEIqWL2EAAkyyex8xb9ppPoxI2tdqDPuj4GFmHGIgNGqvZ4Q0uXdPaK02ensj5qiVvMUy1q5pGkgBWid+VYzoYKha0=
+           -
+             internal_properties : CAAAAAgAAAAovEVlndtcGizdUOzzcFthBeQXIUPJBNTdy+h4AjQpm5I3yNGkpSKXLvSTkdT2apH6TZCpSY3O50mhVw30M1TkIYNXeQR4W3Yh6dB9BS9mwdqtTwslyjGQDo/4AIEOAJv8fcnnl1VcvXmFsq4xi1GaQgRfmK7x54OhQjXhgvLoXlx/2nGV0SQz93N4l+oJbMTdsyhDICD68e3uRViBiVA/YAHslwOVjKOZH2mh18pQqA+lV22pi2QrQ9ZYkVOKc6KYI1IcuM2YrKMzPgDVIaVsUsLBNkCzYlxsailGpmgOf63cv3tSXH3Nx79Cr/Xp19oOi5pKHWi9wWCRCK9NjXnoYiOQoyqzHABOR+zn
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1-
+               
+               SWITCH RADIO_PRINT_DATA
+               	// Report from a query
+               	CASE 1
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Pass the parameters to the report
+               		//Pass the query parameters if necessary
+               		// display the products whose price is greater than 100
+               		iInitReportQuery(Rpt_Query,100)
+               		
+               		// Print the list of companies
+               		iPrintReport(Rpt_Query)
+               	// Report from a variable
+               	CASE 2
+               		// Configure the print preview
+               		iPreview(i100, "", True)
+               		
+               		iPrintReport(Rpt_DataBinding)
+               		
+               	// Report from a text file
+               	CASE 3
+               		// Open the preview window
+               		iPreview()
+               		
+               		// Print the report 
+               		iPrintReport(Rpt_AutoTextFile)
+               	// Report with totals in page footer
+               	CASE 4
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Pass the parameters to the report
+               		//Pass the query parameters if necessary
+               		//Display the order 5
+               		iInitReportQuery(RPT_Totals_page_footer,5)
+               		
+               		// Print the list of companies
+               		iPrintReport(RPT_Totals_page_footer)
+               END
+               
+               
+               // De-allocation
+               MySelf = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAADbDuNwxF5ugqYfqbreeIlyLsBnqWw8OLBAjom026npu+AfsUWbPLjgBOYC5ULbu9U9q75xqxNjmd7X978cV5mUYN/N4+umcdqqZXF7Ug1t0WPjThBeJFJld7ccGsggSytvnzhZSEjE02M/UueQN5tdaD9/2b1hnaKACA6IzOaebObYdllBDZ3eZ9QPm1yHyo6f
+       controls :
+        -
+          name : RADIO_PRINT_CONTROLS
+          identifier : 0x26b9f9ab1ab510c7
+          internal_properties : CAAAAAgAAAAlQVReFhAl5+DS3dR6NdSmCt7/4d8+3YB+xyTsIzpbENLrD/63oxogD5M+iqCrUcsc/+GKy7uqLITNoKYAvgf4BBjSP8DS1XwlRlwex5GNzaqeAzJbaJN3fKDJWBsIytTAtuJ82ESXmwP5iRJKeo3HdjNsax6VTnJfT3juE43tx4O99ZdtYZftVXyGA9P1y6qdusVEnxpV622w+0Lql0s9L91lNyy5fZBFGyNAQf/86GhfqszAiKtqSmVnYrpnTliWzGYtdsr/Hs69+Wj+EAS4Shu0cAQXveVPKHt/zMIAGTCEZl03v9o7OvtLwN/FeReEYYL7oo2+f2IQYSXyNW9niJ0/XoTKY+HlII3/KbWVJ5lUzsB7zcYo8VQw90ksAnTsgv2MnjWqfi7sQ1HFyCphov/cyc0E63WRJXsq/cGhn3inpLLf5hq6823+MnvsHrf+0OicvQ4Fn1GBEJY8DWgca8Y9AMUIHhms/bHEnBdxmnhnvHZypJZJN34GNcFqa44kTqe2ZT5Ddk1hVOhllp2XNylTTkimMJPBKEdY7rgCC/95+oogZNMGwyX8wjq6MeeWTSZq/OjPXGdX4niBjyphLayIUkK/uoFRz2+VjNJpkvi+Wzgs3hgbAy6rzMhr+LNDKZpIm/VH1LOB2f3bDVaGn0CVoSxqxA+X5zAxcTeZnj+nvUAIU5BX4bHGSt9J+ZzuFKvFgXBCjfXD4U5oojF1d7xox5ZlB6m4nwtD4xIhAdMDf6uEH/u5SKjRfOd/febuhCZpUIRYP1KMLfI9SBKuwuXAmOJDiLsPRCDw6WSuM42rbnAumEgSUVf/l8+uQOQD+eksgkClnq/1HZG80QmvH7//0nAO6cehruxhxpIaL38OueFwo+5yu1+Jfbq/8lim7EWOu65tqPaWkQDogKYeVBxL1nhHjZa/eYVu64CwazcBq1g0A4yDUCEjHCP9KhQQ0cjMagpu2tZvnAFkGqHk5gj7eZJrIPzjpcCshxkuCzC9jShd7co0uW/FjRGazFWwG1p0mVDG2dvJ+UvObMDXsAzUFVSlikFNfKDA0FSSycFqacSBT5vLncziEk6l6QdmBsjfaxOQ3CrdxMnZme15yOmL0kTyxECKKkwpkXWzzY7MwSPD2z+2nSLGwcHZUTFo63c0mJCkuglk3I0369guJZ2JVkrEF4OdnXpAt5XNsQ8jaNFNGZ4=
+          properties :
+           x : 4
+           y : 24
+           width : 838
+           height : 332
+          options :
+           -
+             internal_properties : CAAAAAgAAAAdYp8lZim07idLTuEWLntibWfkl0xnWYy5ObfJjVOx+i91D2wMh3kzW+yVmgbcTHiMWsgCSxN9Q8d6QdzSajbep669jvaBhP8xFKLSpY7ee1ZcoXVr+SNiSl9JMKCQn9bQcE+H4qlw4i39L1vkI3wsIKvVNbwIkdFKKADv4RCE1KEsNByZ1fOhv5M3ovRJ50Bkfjl6w1meCiUCv77VKo7FL/Y6ESkAqFifzbLnXVBxUEYWRcVLF9lERqAtuUlInPKd1hkUcQrcdwRlx5oHpJbumwwD6LLjvf1zPMRgo2ef3/Nm4awIyXJLISZqbIuUmwwKPvb3XIYVo06W21/ak0RGTwFqkd+kIwdv2yg3djRV9L8Iv5auLlqw0B1TpVJ+q/jqDkO3DnF9GLRqNNaE0W3xSDufBgnxFJuK7VlLqX/A1xrrKpV6dFr0ws0Mw//HCA8=
+           -
+             internal_properties : CAAAAAgAAACqgcV368xw4xijqRCgPlBrwvbZLtr8p9yhvrVJ7l5sNhFreOia2I/DEvg99oLD3ScrtnTNKXaFJtLEusqBQ1YVwKBz08WT0kxPpwGi1Afs6OjQtHusWcagoqoTw3SX3K8t11jCY0mwcM5Uh8yYO3THvXq8o9Y/CP8yYeSsJTNFJX3Rs5bD844N39mqhcpSkXjfXdKtvaOJ20YBBcZ1lLXnVlGezbVoN3zi6U+4tYs+wL5yZNw07QaedzuiJ2+SiC3O7RX6kqAIp6cS2C6Bgt04f+f6S1zbrkJlfO21hRCNfWNbWpYj5xkAyy/OpcxvSTAYMdKBdH+dTRlQUCO4TBjkLSN+t8s0nm9yh3KAhpdL2RFco0Q=
+           -
+             internal_properties : CAAAAAgAAACzWFlX3tDFW82KZzSrgLiPQYyOJONBi/fSnCJzA8SkZyNXojOSE/q5SV1V1wK8xbuLq0c2KjqnHLYywMsAXC9KuoHiEEoNVyYWOg+pWOEc+NlUXQBR29dopjtFw9BGUHE1GNQSxVxhqewCiltUGHcziyd5zUcAfGD6kVVZ5c+V67/u3sTqwwkiicRz/FBHp6yKv69DWSshQPdaEmGpI+Nne9fU8Jd/lnWciFrafN6+QhEtFIvHKn3rZa+lfMXFmma3ro5R6NyNmVOjCCJcS6+xXs2l5DBqF0dFCV5brQR290UT6acx59/aotfv9A==
+           -
+             internal_properties : CAAAAAgAAACl0HmD3SdkuubEcI6OSoqSUXoRnAt+mP0JXieaUSPVRdVw+j9sK3oURWwG6L8WZyAA7C1CjKVimsJ4jQd3z2MoR/p6qOummWeggZ9Vf1Hw04otUuh/uc8TB1nv4aPohAQzSIQAgE/91ZBM3IgjrKLXWf2jpdjxSUIeOsPIbgaSVjWo6gP5hPpqTiXFN97JgOQgUKEyckIR0fFFdo0NXSQXEAYQkdTwhMgrR2x0zb2n6YRxGpcBD2S9F7ibS5AYGWdOdksg8MxcDQDsJPGA5ztm0VgCpn1NODVjwKoGzFX/Ff8x0g+DgZh+rAbdH+4PM0GApA==
+           -
+             internal_properties : CAAAAAgAAABmSc1MrE+cdYIZCPaXvPQj89tVsDnvPSfKCohLfBiYFFk3m0M3sdB7+Itw31PlTeZ/jAhYOhypv6OvBe4YJFnLqmd5W/VVfckNew6jyeB+xEngk+7Vn7KJdnI3zweP3UsoVfrYXp574i0pJ9ulgopC1erSbuCdLLC5t5AoDiFUYmW/898EtdLznOFVnTsupjbN7XY1Y+y6nvZRBw47bS/S5LXkDURsYhQTHDGjDgpJuI7B6RS6Nz30SlTBHn2Wo/OJirmyjEkQrAEJ45oarsbZayE3IUIBfIVQOgLC8aL5KZtemvgfJ2xsfPhuwVN1TITY+wFdkKOYDoSGrIko+8Gx7eTE813sCGI6KWL5rg3/F1dMOUgUGpmb9mZAaw7qffU37Nt+cODM3R+bB1dyp/QJ9kNSet8BV+Y=
+           -
+             internal_properties : CAAAAAgAAAA+YrO37zHS8h28M5uEXjhPGh9eBSYKRrCcRClCwHm/b/lguYcsxT+XRfGX4/yxztfaKrftJymOGJ32s5JLXW11ImFabMHrY6B8gYrl1EmLd9wJI4vfYh8r5gsedm0R6fLe35qLlVmiAyNTcZGdFgTtlsvl03a50GNhyBbGzuytLiaLCBubuXaEkdu7UGBHAfMIDyI93V7shcDBh/vZrmv0cQJiJCYcUsyoZjS2g1iIfxR8mzb6FcBPJFfXCQWMTzCZYAjH6LFOt9ymKdbEKwS3CZAwaUUz01L6ePaqap7omvbVKUtc77qcVvLaU4CPMv7EEKtr32a82YW6MsRA8FWppxnD+k8J7d5KlLRyYaikRp20CeUrbEQ8qP9uYLHWU9BnznBta20ivX+QAUOj
+           -
+             internal_properties : CAAAAAgAAADl/y8BJFEDd/yqpX3QHPbm6HpxMBVWLbX0ExHbGfDaOvn2PJRFA0ddRZxIUd+8Rl4lW9BbMAxOAiPkvQ11BG9uRqpxfb8tJsKbvC6SUvIgwSW40NlvBBkiQa2sHWmWrnW1bSDzFK2+TQ7e5o5yMmupjbUxcXdWoLA7Re+9fjDxQMy7CqfR/Xht8K3eBKgKrt2KwDmGaYbuKza63UFxuaLy0rlz5KQp+FpYM+aXeukR
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1-
+               
+               SWITCH RADIO_PRINT_CONTROLS
+               	// Report from a memory table
+               	CASE 1
+               		// Open the window used to print products 
+               		Open(WIN_PrintingMemory)
+               	// Report from a Scheduler control
+               	CASE 2
+               		Open(WIN_Schedule)
+               		
+               	// Report containing a chart
+               	CASE 3
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Print the report
+               		iPrintReport(RPT_Chart)
+               		
+               	// Report containing a report control
+               	CASE 4
+               		
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Print the report
+               		HReadSeekFirst(CATEGORY,CategoryCap,<§$0001§>)
+               		iPrintReport(RPT_Inside, CATEGORY.CategoryCap)	
+               		
+               	//Report containing a spreadsheet control
+               	CASE 5
+               		Open(WIN_Spreadsheet_control)
+               		
+               	//Report containing a pivot table control
+               	CASE 6
+               		Open(WIN_Pivot_Table_Control_PVT)
+               		
+               	// TT
+               	CASE 7
+               		Open(WIN_TT)
+               END
+               
+               
+               // De-allocation
+               MySelf = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAACDwA335mOygMs4E2WWMWBCKNpHhQ9nVxgddzdDfZeEHDq4lW/XwEicWKIQ5OABnArPxIMqdOpyau/O4FroWrWSRpL7iblbKfLeqVyXHcERq6TujLj+ezG8X+BomA66+R8IKpCD6uO/wqsCdj/YOj68NKOI3LgjDSx1DoMVYarRzblnST+zuIbi8fkXyxOeCX/N78qZ36g9wJ0KAg==
+       controls :
+        -
+          name : RADIO_PRINT_COMPOSITE_REPORTS
+          identifier : 0x26b9f9ab1abd10c7
+          internal_properties : CAAAAAgAAADBtcKKE+L4xEnrC1/Dq3iVAqbU4o7PP7udMrTQoGqNlakyu+m+jhzXAgwxFSbaGrFbX1uTOmGr3xExbkYXLb0a/vFOATNzmL3OsAqzAjl0DOwhvXe7gXOVIhd9bcX5RwTVP2NYSmWIj7dUqK6NuEUT+p0GEvjrzMjNJfsp7Ih2fQthc9NaVwDR2MrDpdw5UoMT5uaYeq8wVgod8GNh69dDfoO57K+Cngh2v+wj3iGYXGISPQB1EBdpgK0eMq5T/wdI46o2SbbT/Tthk21OX3x61qNzp0D+enRymlVXa56gGXUik/zRkkb7prmfxA4ezVmW4/03vLp53t2677aNVpASQhbrN53OfOyPVdYuQJ511ruxJa1/x7AZ2j+Ksk6gLtgfPcSwBmfBRlEApPlfFoXtO9Z++e/VZ08ji2SlCsCI+ZUcgAwE7m9f6gsLuNNLtuYswJtbLs6wTGlLTTrQYjxQ0KOl6iPZcfyY7RZPQVZn5B7mPDP56lt8dqe13FAhkK5XY09M2B4OdkfLD7zMjdNIoGOE6pdYRP/rdRl2mNyBeFrNY2DsWfMqfxhknNyMZAPxYoveFmWJtgllcFsP/ivasMwzGdmCBOAMRbATv+gVBEerwFxkQ0RvnSsg8hvxb5jVPhjxF/V9OlL80ABsoAD8TVOAs8HVi6D3ge4T6VJyqb9rnhs7t1+95Tl5w5zP/085mv2iyYlIK9R7HUXQ004H54Ws+oqj/H21pJCbr9gwcD9xpW9wbp9cs4ufySfX9K2mQLPEx5ywsc/b+D4Pgcy3k2dY5hTMPlhZj6GSFfaenbMzqryy5QO2UkxSzUvNIxOhRVnDVMu6LZOaEMnIwDAOoKB0fRRd3C744AaR8yHg9ANvXsG0WCZ2i60qz4aiNZ0hPVI36MzukZ0S0paOzCpfkiPV6We4jMezsroGQ2Vud61FHcTLUTsJ2fRoJaxxanTyaSRpQ4QgGLLF3lQ2cpZYRPbBRMt0d+esbY31o1r8dxKcaLQVlHzJq4kYMxkyb5cEjxo8HH2wFtskpmGS8/inU4+bvhACiBuvIz04ZgF0TSJXsn1yA5L7Mkd5dmS8G7+thKLnl8hyxt9+KJ+7aLMdn3AG57Uqobxvuf4NFU7B6x0F7uGMgsNvu/j3cUP0V/bgR1/bkTBBvpDObv6Osbp8Zv5NuenY3pTeSjkiZ5RORp/V9CF8sp2DaQ==
+          properties :
+           x : 6
+           y : 45
+           width : 835
+           height : 273
+          options :
+           -
+             internal_properties : CAAAAAgAAABCm+DI00n/iPsgWWJDDSAMrWFRTXuwjXmU0k4wFHIXOIYcj6CNMFygvxGLk0xaNEX5Yi27Pcnbs4vtRXqoIBqxmMHswkGW9habi0zrGBAdSaQwKOWgNwY/RH/z171Snal7roFKNgxEWknTLBArOqFvyiE9985KJ78usOoKGA+JusGue+tP55JpvqSEUVwxNfmfxGtMYlZpHyWiGpOTBuplkDPAJIaSrPnwMQCuhDDxmh5HB/RGo60PrX48q50wnx+6fjxdKnsKNeb/GDHNyUjX91XEIdfXj51mia6xdIS76gW7qNGc+TSNz5kOPV4BoSxqLlMeB2mw2up1Utc6/dvV+U74EUg1vrHDM2FyimtKeFPt/UOdPKWmr9Egt7VuPgo94/4TwhDO/KJJTPdOVLp1WOpODiBNYeDK
+           -
+             internal_properties : CAAAAAgAAACvjtZi8DqMTiNk7EIaT6nfpws1Ryou54pBkRDXDycJjTuR6M6E9JsN3kAjago3w8Dc+8PrOneDbGOKBShffZQzgiJ0qcqDkGZB+XKhf7J/Hgo5aG0w0SpV7brlZ8NUlGkWMmHyV4PLcAmjS+iE0bW6LKNOyj3uV82FMcKPIh4D1Iteyq1GRhMMr4FJMv+XEFom9Qs+UyOh+tYWYBpHbn4OrAVJ7TxqL4T6ybhq2ayjhz2SWYRsr7lg/+8osLceXI041zILQVYFtF4rb3XAhfroDURDbHNsOxHEqq+MTjebmNyrmVTOthQdNETpeLEkTqcn2Esokqinbl50TDywhR49TsVu184nccdFalXlg4te7gRPrkk=
+           -
+             internal_properties : CAAAAAgAAABE5XNbIWTgFj4zYoWcyHD68n4vl2U1kQfE0GZbn+84RhuyZTG7r928t8VQVPnbS7WiAg6tRxiZXf+N+v6g7zVInLElqx9ZdPSH6/eWIFg+/GOJaA+W93aBLQfSBf308hy+EdVJ54xlGmI15tJVbHC+im7oR3DByfzd6jNqUb++SRiGaZhNoIYWrCWhDUDlabNTul/NI5bboArQaAAl4RDvPUcbBsxOFulnhvJfBNBzgHtIhGi/SWdBxVSXF8SCLRMkh40mCoZQx1G+4IFRqFQKISdSzkvYrLchMACeDXcdisC/cLjxmRLaDDx0jFQowUUrbLNukdlXl6gW4mM3SIo3IL6P9Z3wYzWFeI2t4pGAkT/OFHMnEQ0M
+           -
+             internal_properties : CAAAAAgAAAAthLH4+QhHf76nMOaemHQKOPa3Xeo360r0Ou3nMqn0hUs09f2sm0qynwt3En2a4c5D9OqmYzakd5mCs+V62eBBfoHMziMVL2szsrgOCjjeZ4tDoFoFCvFMPOM0tzUqHlvdlE7Aw7T1lYnIoiNfs2EA6/ppW6s/KVmUsSdt0gbSwHKK1Akj8eQfs0q+yXCzMv6e068b8OylYkM9j6HePy94XwGWhYCB80yWlYdteml1C9Il1QB2RLBhmsoq6gcGyCmVBMCAdWTGjjB5RX+N1l/DSKE8/WxT8uGOwu36CfIYGzUI+ZCIGodTeWHO0JejziEKZX6wwPyCyRk0D+C/zk7kKK5lBig7mGUNGCA=
+           -
+             internal_properties : CAAAAAgAAABMx4njSTLxS3bgFvBngMAkSNsk2Yvgnxpt4LW+bP1Y3Gk0yUIlss4TbRQXl8QYA+kNNz9efPqCW5hh8a1WKYbRRHpFgoWC4HUq2Zv4OjARGTOqLQqwqvMdZkfrtkxH6prUGYj+Xk2BHpsRChu4OTKW22Lq6tJ5rRrW0dP0e3uVBwiEqaFAGVv/OzgQXI1CvUPghcfRP8mpJ6/zSk8iD7Zx5b8nAj4rJr3Wvtru8g6BcYlvs2QHms1choeGdzmOLaQAAadKy8wkxBMI5juGIBaMuGh8ogk1XMof3aEIu+w=
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAAAL7dIpMWYuxs+cj0ok74BJo/18zEiNE/vfEjOAWAWvP8FsbljDYFE9OPNzhAgm7b73GupgoHRK7DYVgDXIiHaMxbnMM01kYMAchroUfgowQiMRUGsCI25v+KDl/P+ZL5ytvb9JarOS0oRW96w=
+              code : |1-
+               
+               SWITCH RADIO_PRINT_COMPOSITE_REPORTS
+               	// Composite report with 2 integrated sub-reports
+               	CASE 1
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Print by composite report
+               		HReadLast(CATEGORY)
+               		iPrintReport(RPT_COMPOSITE_INTEGRATED,  CATEGORY.CategoryCap)	
+               	// Report including a sequence of reports
+               	CASE 2
+               		// Switch to preview mode
+               		iPreview(i100)
+               		
+               		// Local variables
+               		nSubscript is int = 0
+               		
+               		// Browse the products
+               		FOR EACH PRODUCT  
+               			
+               			// Add reports into the sequence
+               			iSequencingAdd(RPT_ProductForm,PRODUCT.Reference)
+               			
+               			// For the example, display the first 5 products only
+               			nSubscript++
+               			IF nSubscript>=2 THEN BREAK
+               		END
+               		
+               		//Display a category
+               		HReadLast(CATEGORY)
+               		iSequencingAdd(RPT_Inside, CATEGORY.CategoryCap)	
+               		
+               		// Sequence completed: start the print
+               		iSequencingPrint()
+               		
+               	// Multi-column report
+               	CASE 3
+               		// Configure the print preview
+               		iPreview(i100, "", True)
+               		
+               		iPrintReport(RPT_DataBinding_TwoColumns)
+               		
+               	// Reports group
+               	CASE 4
+               		// Print destination
+               		iPreview()
+               		
+               		// Create the group of reports
+               		iGroupAdd(Rpt_AutoTextFile)
+               		iGroupAdd(Report_TextFileAutoLandscape)
+               		
+               		// Display the group reports in the preview
+               		iGroupPrint()
+               		
+               	// Nested reports
+               	case 5
+               	
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Print the report
+               		HReadSeekFirst(CATEGORY,CategoryCap,<§$0001§>)
+               		iPrintReport(RPT_nested, CATEGORY.CategoryCap)	
+               END
+               
+               
+               // De-allocation
+               MySelf = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAADUB4oOUxj8+TTg60wq16tAJC4QSiIkV46hEboEaxoyNZy6ITbTbQSjO8kLLyZioj66LgUOxoWvIndUo6RjI179ziX481hkd+Wbp9fRHDATdttRmMOLpNk0V4sUGnR9KQIngTbs/bYJnOnDyj01rNjlxVyYLivmTYHQJPKau2VQyDe9A8m1LlvRMKrrxO/JEw==
+       controls :
+        -
+          name : RADIO_SPECIFIC_PRINT
+          identifier : 0x26b9f9ab1ac210c7
+          internal_properties : CAAAAAgAAACwJNEZ2hP5HHAxWDiSHs5kFymdWRlx8JCMbT3/rtdiAi4f3Bzk2hO23b8MXoepekW+sPT0QzPLcTaM0cG6HS82goYJE7R9dK+Q1PJMZH1qbnK/6Za9L2vF/hywqi/Z39J7jwfoesUCfwOGEKUe/+hKkxwbKX4/ZqnYfFZa+u4/Od3CkgdHYOGfgA4RjFOt/aB9ElGF+8n7UVO7UKC6kN/yZyqBsh0/Y+mTdwmIIf8fV1zGQHVj2j9cPnBFPv0REt3wOS6tnm6a25xAtkitlcdlsSBBiPfYgLqtBYQ6TmKqSV9LDckbJwXFL5j/bHcN8DRMeG4JXpvP1U0VUbYdH8w4LPFBfFwfn4yw+1KGccsAVPLwFKairvYGeUQPA6cbmmuCH2mdLfikR+PUUti5BvsQ9p/BlUG9i8tThwp9X8aj+fZwP8PnBG3/papGAx7mM97XJe4XHmDoEEwzr9NkCXLgzlYAsDagr3HUVAbPLG2jQh3wrJfhNd0ufJ+dFX6Pm4Eri9/+X4IsNB9TqQyfEoMGheX3xU/XSrDCCZV0BI/ADcyxjUrC3dN0sqlnFMQdnZbGVNNSb3a3NacnHOztMz5lwF8EygxRGsaREEgFE+Xg0NNNIturoAxzeiCHF/OEwHPaqbeSpy00FkLsoc6GiYRaAMoZlx3VOvNU9LsgIbc+pHH8V6AhRlpysplfA86FBR0tPrW7gg+Fm0qX2qJN0pLLcgC71Pcvig9CprXuLDt75NC60BEPUseiisgHAnKnmh3YO7FIa5449Wu3FVsuzLOmUaRbmVcHdE6MyQFyR6nZukBmfRnmuwBh8wEfTpMzaVJNQZaJK154LkV67pUi5yCId5XDx0gksHE6HmkXaTgeDSpCohUUd1ZCQFi1/ounlteRl7y7K0VG8OGWU4cWR6jxq8zAZK+vE8MYYdzvQOCqHpZzMgaZfMZK5fuzPtZShziQRS1jNxae2lABEgHbbFosrn6ZHPsk10rVUoJIxiWDlpI68GhBpokeLsg3wip5nr7HLrFl1bpbA2ZyZVJTYofYZNQYM56Ezv3rwV0icNdiPWo/Ul2c2XTRNDvlwrDAGbtJwC6d/aTG4U6v+Uh13C+5D/RCp/XiiYxngaa1v/T3f7dBsuDj61qUqJeWkGp9TGlz5oYhWHeaxReZq4FhvtMhVc1c55FwtqgUfLabroX50g2kiwptoY7ymA==
+          properties :
+           x : 4
+           y : 46
+           width : 838
+           height : 271
+          options :
+           -
+             internal_properties : CAAAAAgAAAASbvnxQOLEFJ9YWvPsEWBZlTxyxrKNNJDU5Q2vOTUePbHuIZTh2zA6okJOtIbCmLzUJ+SX3ODgMz8vZpZrY7RXgerylzXOmXafInw5Dwf05FDFLEuh6yOWARUQKCf4blSsYKfOJs7RF2cwoB64VwWfsy6xvGHmE+SKYKb+i2Y784q3kh9z2PtofwRxKDFk/YO1pFI/245qYDjdtYyWcz0x5sgKH269vmFvFhY+3WL6hkUx8MsV/xLqV9/GxBq+fEYathZaUiYXq6Mg/rwsMhhkIV47UDRTeEWeUHz5kbw5GUH3wU0lM4Y0jypQc9j42F3dinvtp6ZQNKjuafiuw5oDY4E7THrtsFVtcSeMeJyDL/YzZqjiH7CbY8nZUp+AMgktsg7n
+           -
+             internal_properties : CAAAAAgAAACsF1620MOnFOwxRA7tnvIKZpI8grz5YVI+jk1+ivRsc1xOFTF7krN5kjV5SF5yyw+AyrMvYu4KRkUoR54xmjQa4bE70lTuWJkYdvYLayDOwpnPRh9At7NNimUpmzo+VLRO0zNVMk0eGS/thJOeZ7SC3pFuk+UKp+/OamSQNhlI7Gmls3q3gcdWUlgja/ygsHsRFJ5Tkquoxib6Iy7rdW42iYv2iT6wolQ3twWapIZsfpSr4FBXhc7bP45mOougF3iaHR/ReTvtxB4ByZsCbAPE3ICTNLNsUHVAin9O4nQ+/uOsxQJK0Akh7pst/O22Ty+STrT1Jly5LiSopmQnXXV4VQ0r0BM02krko1171A8vEGdKRzAvn17h+wnOU6UKq/frEcI5LPBJTkf0VOs88eW5qA==
+           -
+             internal_properties : CAAAAAgAAABcIWEw6TlJBrA1C/OECk+EQ+FOvJOAx73b4yrP5V9X35B+fxuvrz0yrilZBD/2PzOIPqUTW4LwO4N+gdi6vRsiEyVgS8Tw64r0HPHqzH9m0kmFiOaO2DyL1Vr7Xe+g4um9i90cB21wsnCk1QisvaZCasn7bWb1Oc4jgpu/ze4XQ1eQmDQ3L6S+60SzQne8pz+vT2siMEk9X6deMaleIE80BWtZ59sf2y5aI1KbswERqe10PVOush5/RdMNJK48u2E3jHe1QqIZNLs3pjYxBeZlUXNgZ95+OvDhEbrW04D2J5vHKOh0RJhyJIQAFRiUnGrXfcgJUta7wtyGoPs=
+           -
+             internal_properties : CAAAAAgAAABFQo7gICTB1B+8+lCMXc6JKPdelHXuFKuTIeb0aULXwG/6t6DhMzAgaDxiJcxM0bxMr/mOl8CSz5UW/yhV6rHVLfZxQijbQ3RglOKUnmZgc8VAkVo9LxqFu5b4Ec5LvDD5b1JLz/g4ZFe5Aph6JysiO4DhCWWIrotWz5K0grk9yJeuBuwQtIjdQDlaLrq2O8Id4D1Ik2JW+j/bIo+tPP5v0SGoxmU3crrk8M7CyVKaxZ4s0TJvQhARnwyjnwhkHCQ9fasFtfuBVlrIl3KLW1nXmNKwUQh1fkK2lQlReOEwXLj7huum/HLwe1TRYcgDeEDj4+m7jVlFHlaWHeuh2zpFUWsreaqZ3g==
+           -
+             internal_properties : CAAAAAgAAAADQrlU8qyto1KFW2lp/nNfETJPQ5iC44hOcpxUuX+Ki+L0jkZ4rJrMrk/k3tlhIf23s7k2T0RAfOWwLE89HTEIYU1dVSkcxSw7bfDTfQLgI6K/PvEWVbvMTs3CXwIXqyyT5Lv5DlUBeHI1jvrGLo8WftXy9OYy2ewNaeWmFCsvetucqf7YsY3EYTBvAGOahCuamhZsa1JG9xVi3n6heAgAczU4pGRU9vYHAyap2l87RQXkpancs+gJQfK5AL0AP3VUepTebxONK+N/W+3OSWSnGFWIz9HsQGT3coKGySiC/3bpI4Psh5fWwoLIM9EQXTpBd6ms/3skvbh1hOUTZIo0EgrKT/rPwCsBsaSRsFXcCTenprjEjjWXZ8hb5krkjtZH
+           -
+             internal_properties : CAAAAAgAAAAPDoJ9b7NiSHcHvSBoCiwOiehFJE+Fzsrc5xy6Wa/bsTb8Cr5QSFlXDZ9ccp1kGxv2I1SmaTwf1fSApxEEOwhS2AcyL2OGEUonGB47Fhwlkj/nZTPfHjTc8AXW51M6nWSwD1oWKhQ9wT13ZOAjcTg577u/3fCXfaLlfs19cC9BCFZ3xVlJclYAvuDChwUNR3BilipJRpQr/RTFarfl0vuTsTf1yp0xQb2vNNeWNO9Gpy/2uSznbSH5HEX2+QK6yGd0a97YrgzBYsnWLD4argwzJrC38cbJ8PIQpfQ3Rv5DFMXV37FoUdE8PMP5VNdnyUECIOw=
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAAAP6d5VUaOBcnsAGy5YYwDZv+FEUDgR4yfTPi/EJDFnx4UoLoxrdEnhbC+f0PRCRS7j3vK8wDjwIninLpNCDuwOp09ygV9CPi4OiLgSeIBGVKWn9unMWYwtOoob4uGHNZ6f000/PCwazoBS86g=
+              code : |1-
+               
+               SWITCH RADIO_SPECIFIC_PRINT
+               	// Report from a query
+               	CASE 1
+               		// Print a watermark in report background
+               		MyWatermark is a Watermark
+               		
+               		// Text of the watermark
+               		MyWatermark..Text = <§$0000§>
+               		// Font used
+               		MyWatermark..Font..Name = "Arial"
+               		// The watermark will be horizontally centered at the bottom
+               		MyWatermark..Position = iCenterH + iBottom
+               		
+               		// Print preview
+               		iPreview()
+               		
+               		// Indicates that the watermark will be printed during the print and in the duplicates
+               		iParameterWatermark(iWatermarkPrinting + iWatermarkDuplicate , MyWatermark)
+               		
+               		// Starts printing the report
+               		iPrintReport(Rpt_DataBinding)
+               		
+               	//PDF report with edit control
+               	CASE 2
+               		// Local variables
+               		sNamePDFFile		is string = CompleteDir(fExeDir())+"testpdf.pdf"
+               		
+               		// We want to generate a PDF file
+               		iDestination(iPDF,sNamePDFFile)
+               		
+               		// Generate the PDF file
+               		iPrintReport(Rpt_Edit)
+               		
+               		// Display the PDF
+               		ShellExecute(sNamePDFFile)
+               		
+               	//Mixed Portrait/Landscape printout by programming
+               	CASE 3
+               		// Use the preview mode
+               		iPreview(iPage)
+               		
+               		// The portrait report contains the print of a report in portrait mode and in landscape mode
+               		iPrintReport(Rpt_Portrait)
+               		
+               		
+               	// Mixed Portrait/Landscape printout by composite report
+               	CASE 6
+               		// Use the preview mode
+               		iPreview(iPage)
+               		
+               		// The composite report contains both some pages in "portrait" mode and some pages in "landscape" mode
+               		iPrintReport(RPT_COMPOSITE_SIMPLE)
+               		
+               		//Report of product labels with bar code
+               	CASE 4
+               		// Open the preview window
+               		iPreview()
+               		
+               		// Print the labels of the products
+               		iPrintReport(RPT_Labels)
+               		
+               		//Print mode
+               	CASE 5
+               		Open(WIN_PrintoutOutput)
+               END
+               
+               
+               // De-allocation
+               MySelf = -1
+              type : 17
+     -
+       internal_properties : CAAAAAgAAABk3kiLvF6zLVnmMelNOah9L6bJfpybIkB5chteXCIcDIrAmyvmcg4p9c8vbpaUSDh42GkYfAZJUKWYbNH+k/Dtlf9aPku0SBjMxUafGVVrBiLJ+xwOeo9oCJPZ8Cts0eYEIYsjrjxZKJxJcZFqpdTD+gxj97Zsg7WD+jnm2OqB7x5nJFM1T8HSbPu7TlQRC8g=
+       controls :
+        -
+          name : RADIO_STANDARD_PRINTOUT
+          identifier : 0x26b9f9ab1aca10c7
+          internal_properties : CAAAAAgAAAB92H2FH47wIQcBq2dpRWc/YfPRGQJPZliEWeWNo5QcPLN9UtMT7scZWwcmKW85qINArnAIczRKeIKqtQzahT2BZjHZtgaeJ/Aqp9uFL036iZTrw6aah8LasTYkGfqXl/vwi/e0eVdsROhZfeBbWliNRhYrISz0GhJgKXl1KfA3eOnTCEgL1yUD3aHIxksUM7ZpRebIAv00TM4qhgfjDghH7nYBzNrHyxsGA79awlq7mJ6HrjfGWyeT/9uFxOT9qGWz6ka5pxgqdVu/rJzJ6bDzgTFAGOi+4EXUKrl/OqsfdG9glddS1n153W/DReOpxtoIU2pQnxaWebl/HkKjdCO0lwzXECZhWESo/HfAxuwziqyVwTyFST2JAI33mmV0YxRqN78thC23+UE2UhGiYTz7kWAyoDR/bNRezkXVvpHErJitaZzDkBOequLf0FUCHKC36Td7G5iAuoilRxddwjY34URdKLiCTRoWLdB5Os9CpPAhFmQZfLUvWU1+DoOBsn4DDpKKQx7sD1kVC5+TTjjN9pGUC5nqCyBfohcZmYYHTUpjKmNFxKwFhqvRTIqqxaPjigWvIO8j+CSkmP9jjRD8IKGl5rlMLFwaV1Z5IYyk1jSHQ6dJwqkiW4+CFeKim+E07EyehsR1DMoXsu4QtugB1XpK32+VFF1wk0X265Ke1cARiB2ffD55UyPyEW0ByEGpYKv5QUUamIoMjQg5kbN8BBz+OOZE6IM6vO05+a8/npQdPch9WWSml3wdXEZzxE2Def9d8QS2XhVkV0Csf8WRs97j2sGzg8m77TOMdlHzYmUNrPKi0X2feXgbA0PIomo+pJeNlBDNiGA/GB23EjgsEKi5pU9Scv1n++4XWMOcur7refMadyLByLdySup/qB7MlBsjBMwBKI305vFcu/pUZlsxEAfDc/reHNiiDjmaJOFdXOjO1xcszippviV5P2kFzFnfS1qP70/4c9dJoISZ+ba1VOye+sDJQhvVjthyrwxatlRWG6lbhAlFsnGOdB20gYT4BIZSWO4oIzOZwd43CIg6k3/08swDRj69BgBUpNncPbxGlXdqICqqi8WlKX0c6nkJDV/bQ23qwvUtlhcROVpe1Om8aRlCdowx6jkGqLEGCJL5BhfZz8LZ7RKkUO/LuEi7mbfewJfaCgJ4U9WT3Dp5vSZfV6RfHTM2lIWcIRleuOhY
+          properties :
+           x : 6
+           y : 26
+           width : 835
+           height : 311
+          options :
+           -
+             internal_properties : CAAAAAgAAAAqLMalF9qZrDnM4WLfucjbrJZ19PqHDvnbrHHu6UN+Rg9NNMdNILozHWlz80TSTHS0tLnrs+s+z6IZ3j3BUTzM812BHIfFCl9gWm3JY/xvbe4hFAWaBhmSO61HPqAL9iiCxjZJehlMt7+aEFaVoGJGodSZOa/5CkZfWSUxdiQK3GpOepsc196zD0K4dZ8WQ2DR9yXUugVWQP7n7otpVTniFjVjcME4tNL4MA==
+           -
+             internal_properties : CAAAAAgAAACyCv4qiQ4UlzHWO640QhbCKWF0wSzotYtlKBxOyzhnZQ2ZvuzDiDzlugyCdlt8opUKkSTpr4sO0slnPudC6IiCeGeyzWENCnbsApenba0h+z+SnwMmHWlHmh6pLIqjbyXpFULQv7I8br1kmLXWe/aU9Gpa+9eFW4TS/LFiDIKR30T3jTN8KkQmasbibp9R/hfTrABMBHDZcDoLtVI3Ar5iRFVlXQIvnS86oolU+/cNhY+b
+           -
+             internal_properties : CAAAAAgAAADtCj5b31YksJz+8fAyL9L5uqCtVerc0z3KpGxYsR5+zP8gdOCcKXHtriLfeE4L5bMEvhdGSYIABElzY2+mkq59/nZTOMPDqi/6IvxQJ1kM1qV6yVDGQz3dpjqwhxObIgHNFqTqqeBwihnZ4Ef19/eKXAgj+Jcqz+05lRT4aKUWkETvoHwnVtH8qCF32l2cfr7BD0qtePzKy02Vol1MPwsD3qKu
+           -
+             internal_properties : CAAAAAgAAACSC2J2XcTxYL8z5EkBAU+v1HDegZKurWCEcaMrQUZvg39hnjSFyvzR4yAMfszerA+Sw2PQUM2+EpMjLcgzEtUksdpJdPazNN4/EfOMwEUQuqxVkUnlNF87ZNIpMdCco49/fei+ZGcBzby3Cr2j0z2XNG2tSNMjriB87K7em3Y33qJqGU9j4fjIuODTBmXgap0ERDexdsmiJcCZBwgfXNxt6Mh7iEjmyPgtrWoxtPR5i4o=
+          type : 6
+          controls : []
+          code_elements :
+           type_code : 6
+           p_codes :
+            -
+              code : |1+
+               
+               SWITCH RADIO_STANDARD_PRINTOUT
+               	// Composite report with 2 integrated sub-reports 
+               	CASE 1
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Pass the parameters to the report
+               		//Pass the query parameters if necessary
+               		//Display the order 5
+               		iInitReportQuery(RPT_Standard_OrderForm,5)
+               		
+               		// Print the order form
+               		iPrintReport(RPT_Standard_OrderForm) 
+               		
+               	// Composite report with 2 integrated sub-reports 
+               	CASE 2
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Pass the parameters to the report
+               		//Pass the query parameters if necessary
+               		//Display the order 5
+               		iInitReportQuery(RPT_Standard_OrderForm,5)
+               		
+               		// Adds a report
+               		iSequencingAdd(RPT_Standard_OrderForm)
+               		
+               		// Adds a PDF
+               		iSequencingAddPDF(fExeDir + [fSep] + "RPT_gsc.pdf")
+               		
+               		// Print all
+               		iSequencingPrint() 
+               		
+               	CASE 3
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Print the list of the products per customer
+               		iPrintReport(RPT_CustomerOrder)
+               		
+               	CASE 4
+               		// Open the preview window
+               		iPreview(i100)
+               		
+               		// Pass the parameters to the report
+               		//Pass the query parameters if necessary
+               		//Display the order 5
+               		iInitReportQuery(RPT_Standard_Invoice,5)
+               		
+               		// Print the list of companies
+               		iPrintReport(RPT_Standard_Invoice)
+               		
+               END
+               
+               
+               // De-allocation
+               MySelf = -1
+              type : 17
+    type : 16
+    controls : []
+    code_elements :
+     type_code : 24
+     p_codes :
+      -
+        code : |1-
+         
+        type : 17
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+  -
+    name : STC_REPORT_EXPLANATION
+    identifier : 0x26b9f9ab1acd10c7
+    internal_properties : CAAAAAgAAAAeJVHrLGjhpx9/kUWUC48TF6lTLScxo8++Xj/nBc/OGGpv8cIUjSH7rfzVtyAbo1pSo4h8Wm/omKX8DTJjKfmtIYwexDcMrqxue0wy6P/y5q6bndkDWNopXrUUwYXmOZyP+YOA3aHB9w5Ws05Rjl2bdJjULfjsJdXf6//YukLDI/vMfI6FtjALz9/5nzWX/MZDCtvff0LwQk2xB1ME+cOwWrZBD6JSzJY0GXFRPXNNvav4n07rIvnjH+fq0pLCpz/uJt2ZS6ilEOeN78Z/gCaU39kOtFOdM2YMU+iYljoGuBe4xfaTAOoEkaDJwf0kixiHoJcLIWDezeQQWqePclBuFXiZsXcZjLt/Q5nF1g6YIEkQf6pgXCOe63ZZRzsk0qqvGGrXa11vCujbrvRkp7POrrckqdInxvN7WrnE/LS/JeVYX8I0pIM7mCOhLHNCRgfO8KBprc72SW9S2ay5JvMKlcsIqj7jJgVYaadJs3GVXQB66HeZv/G69VWvviDqLdM+xbV056jD2ghnHLTC3GEBup7VU4mpqDRtxhoBdRZb8ab7aLIaMAalGayF/n+MXiFceildWuUmIlRTSBO6sQkPL6ynaJEYBiBPWBMvPNhHmHFweDe4X0rFJIaT1eVEnrD/LKuPIjE/XTFEPQz2hQln6UwSwQGYzTez0iFDQh33yBWmJvhsyUbIwu5sHnceV9RRg0HyLYYdDYoVQ7B5d2ONewpyHMl0W9QIxMWnycXrkLd5NAmf6mU95MNk8h3ZLD31O0IebEIBx7R2GIhF9F1AjT5jgD0vcrMjrt6LSJ3defNNGDE7QN3BsrkOJAAJd7Alr2zSwiJgT4WHMCi21t2cVyutah5RhRGJ6h4B1Ksw8JZoKSkPgY7GMsx4f/g2ItCp1q0NvYGyJcsnWB3W//Yp90MGEYtG7MbBmc3IYJQk5EkTyxBR2nG9OZbDYaoGsGDuRb6MsLok4wcmDJx2B6X9GP3QIEpJTzS6r63bHjleKfobMlNL/p0hzvUNGIso
+    properties :
+     x : 6
+     y : 6
+     width : 847
+     height : 67
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+ menu :
+  name : Menu
+  identifier : 0x291abde46e1b2167
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABAo2iGuH5Wp+WXT9ATHLl0D5YbWA1kQTPGK+Lh5hGKGvg5URzENlJkd8OEeHb7S/8VYu6eoH4GJuSyXtet4KfhoVCahtlE6WUu7sayrAQepbxtCBpOgiUKDkyVKAN0M8A=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAACXiHbz5sxAgg5oBw263mrRnl5QmeWZ2tcO8dL8nvaYYNJAxuxYRbm37sT8zEv+32HGTo1rg0gLMk+wPSg2esA=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+      //deselect the lists
+      RADIO_PRINT_DATA= -1
+      RADIO_PRINT_CONTROLS= -1
+      RADIO_PRINT_COMPOSITE_REPORTS = -1
+      RADIO_SPECIFIC_PRINT = -1
+      RADIO_STANDARD_PRINTOUT = -1
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3b8a73023d31a3ce
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Confidential
+     index : 0
+   -
+     text :
+      en-GB : Plate over
+     index : 1
+   -
+     text : {}
+     index : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Menu.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
